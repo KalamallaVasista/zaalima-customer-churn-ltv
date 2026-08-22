@@ -1,0 +1,1410 @@
+customerID,ChurnProbability,RiskSegment,Contract,tenure,MonthlyCharges,TotalCharges
+4376-KFVRS,1.78,Low Risk,Two year,72,114.05,8468.2
+2754-SDJRD,83.74,High Risk,Month-to-month,8,100.15,908.55
+9917-KWRBE,6.0,Low Risk,One year,41,78.35,3211.2
+0365-GXEZS,30.56,Medium Risk,Month-to-month,18,78.2,1468.75
+9385-NXKDA,0.63,Low Risk,Two year,72,82.65,5919.35
+4686-UXDML,61.14,High Risk,Month-to-month,21,99.85,1992.55
+2227-JRSJX,44.4,Medium Risk,Month-to-month,21,99.15,1956.4
+4830-FAXFM,11.57,Low Risk,Month-to-month,19,24.1,439.2
+1830-IPXVJ,0.92,Low Risk,Two year,61,19.75,1311.6
+4690-LLKUA,34.71,Medium Risk,Month-to-month,17,45.05,770.6
+5804-HYIEZ,39.53,Medium Risk,Month-to-month,70,106.05,7554.05
+2388-LAESQ,1.68,Low Risk,Two year,72,114.85,8317.95
+5533-RJFTJ,19.34,Low Risk,Month-to-month,49,30.2,1453.1
+4706-AXVKM,74.83,High Risk,Month-to-month,11,84.8,906.85
+0997-YTLNY,11.91,Low Risk,Month-to-month,19,48.8,953.65
+7971-HLVXI,1.29,Low Risk,Two year,72,84.5,6130.85
+7337-CINUD,1.92,Low Risk,Two year,8,19.5,159.35
+1379-FRVEB,62.07,High Risk,Month-to-month,15,91.0,1430.05
+4753-PADAS,28.49,Low Risk,One year,67,105.7,6816.95
+5701-GUXDC,7.67,Low Risk,One year,26,35.4,978.6
+7235-NXZCP,70.44,High Risk,Month-to-month,2,74.85,156.4
+0668-OGMHD,27.41,Low Risk,Month-to-month,21,28.5,629.35
+2812-REYAT,2.88,Low Risk,One year,49,20.05,923.1
+8779-YIQQA,3.24,Low Risk,One year,21,19.8,350.1
+9701-CDXHR,17.72,Low Risk,Month-to-month,51,69.15,3649.6
+7130-CTCUS,22.32,Low Risk,Month-to-month,16,54.55,825.1
+1894-IGFSG,39.86,Medium Risk,Month-to-month,22,89.25,1907.85
+0871-URUWO,67.67,High Risk,Month-to-month,13,102.25,1359.0
+0057-QBUQH,3.2,Low Risk,Two year,43,25.1,1070.15
+9611-CTWIH,72.97,High Risk,Month-to-month,3,89.45,240.45
+8058-DMYRU,36.22,Medium Risk,Month-to-month,54,90.05,4931.8
+5351-QESIO,49.68,Medium Risk,Month-to-month,1,24.2,24.2
+4302-ZYFEL,0.89,Low Risk,One year,69,20.55,1403.1
+6134-KWTBV,0.89,Low Risk,Two year,62,23.4,1429.65
+2034-GDRCN,75.44,High Risk,Month-to-month,2,90.4,168.2
+9544-PYPSJ,20.37,Low Risk,Month-to-month,62,96.1,6019.35
+4208-UFFGW,43.23,Medium Risk,Month-to-month,2,44.95,85.15
+9537-JALFH,0.53,Low Risk,Two year,69,19.9,1356.7
+4415-IJZTP,85.9,High Risk,Month-to-month,1,74.5,74.5
+4701-MLJPN,16.11,Low Risk,Month-to-month,31,55.25,1715.65
+7515-LODFU,1.12,Low Risk,Two year,69,20.3,1356.3
+4927-WWOOZ,83.72,High Risk,Month-to-month,2,91.45,171.45
+4067-HLYQI,34.62,Medium Risk,Month-to-month,33,70.4,2406.1
+6184-DYUOB,18.72,Low Risk,Month-to-month,3,19.6,55.25
+9209-NWPGU,8.88,Low Risk,One year,44,65.4,2774.55
+9851-KIELU,77.27,High Risk,Month-to-month,10,110.1,1043.3
+3199-XGZCY,73.48,High Risk,Month-to-month,8,75.25,576.7
+4226-KKDON,22.15,Low Risk,Month-to-month,8,66.65,520.95
+1085-LDWAM,1.02,Low Risk,One year,69,20.35,1442.65
+6825-UYPFK,27.76,Low Risk,Month-to-month,23,75.6,1758.6
+1767-CJKBA,0.57,Low Risk,Two year,66,25.1,1697.7
+7181-BQYBV,85.63,High Risk,Month-to-month,1,102.45,102.45
+0178-CIIKR,13.58,Low Risk,Month-to-month,3,19.95,58.0
+4256-ZWTZI,32.76,Medium Risk,Month-to-month,5,51.0,286.8
+9537-VHDTA,39.93,Medium Risk,Month-to-month,1,51.2,51.2
+2754-XBHTB,55.37,Medium Risk,Month-to-month,9,77.65,714.15
+5975-BAICR,9.76,Low Risk,One year,36,63.7,2188.5
+3301-VKTGC,5.8,Low Risk,One year,68,85.5,5696.6
+2877-VDUER,3.46,Low Risk,One year,35,40.9,1383.6
+7717-BICXI,0.88,Low Risk,Two year,60,20.55,1205.05
+0562-FGDCR,0.28,Low Risk,Two year,72,74.55,5430.65
+3705-PSNGL,4.24,Low Risk,One year,45,20.4,930.45
+0048-LUMLS,20.17,Low Risk,One year,37,91.2,3247.55
+6497-TILVL,18.19,Low Risk,Month-to-month,7,50.7,350.35
+2108-YKQTY,27.55,Low Risk,Month-to-month,4,50.7,151.3
+3658-KIBGF,61.07,High Risk,Month-to-month,1,54.9,54.9
+5482-NUPNA,20.48,Low Risk,Month-to-month,4,60.4,272.15
+7410-KTVFV,20.58,Low Risk,Month-to-month,18,49.55,878.35
+9033-EOXWV,16.63,Low Risk,One year,12,74.05,872.65
+8821-XNHVZ,87.02,High Risk,Month-to-month,1,80.05,80.05
+8224-KDLKN,0.29,Low Risk,Two year,72,25.0,1738.9
+4825-FUREZ,2.14,Low Risk,Two year,42,20.25,835.5
+7534-BFESC,54.86,Medium Risk,Month-to-month,24,76.1,1712.7
+9138-EFSMO,14.44,Low Risk,One year,26,78.95,2034.25
+4227-OJHAL,7.97,Low Risk,One year,68,73.0,5163.0
+7279-NMVJC,3.71,Low Risk,One year,17,19.9,323.15
+8591-TKMZH,8.57,Low Risk,Two year,59,111.1,6555.2
+9283-LZQOH,51.81,Medium Risk,Month-to-month,13,74.4,896.75
+3594-IVHJZ,13.87,Low Risk,Month-to-month,2,20.45,42.45
+1945-XISKS,0.94,Low Risk,Two year,67,19.65,1335.2
+4359-INNWN,3.23,Low Risk,One year,17,20.05,337.9
+7649-SIJJF,0.41,Low Risk,Two year,71,80.1,5585.4
+9254-RBFON,21.0,Low Risk,One year,17,98.6,1704.95
+0970-ETWGE,86.89,High Risk,Month-to-month,1,89.55,89.55
+7762-ONLJY,3.9,Low Risk,One year,6,19.7,94.45
+6710-HSJRD,30.44,Medium Risk,Month-to-month,61,114.1,7132.15
+8873-GLDMH,65.86,High Risk,Month-to-month,6,73.85,401.3
+9907-SWKKF,72.25,High Risk,Month-to-month,1,25.05,25.05
+4658-HCOHW,49.32,Medium Risk,Month-to-month,21,102.8,2110.15
+9330-VOFSZ,6.69,Low Risk,Two year,60,110.8,6640.7
+2860-RANUS,44.75,Medium Risk,Month-to-month,20,85.8,1727.5
+6234-PFPXL,37.93,Medium Risk,Month-to-month,22,95.9,2234.95
+7205-BAIAD,1.35,Low Risk,Two year,40,20.6,827.3
+3858-VOBET,53.99,Medium Risk,Month-to-month,23,74.95,1710.45
+5103-MHMHY,48.41,Medium Risk,Month-to-month,1,45.95,45.95
+6119-SPUDB,1.41,Low Risk,Two year,46,38.25,1755.35
+9389-ACWBI,45.83,Medium Risk,Month-to-month,5,69.95,320.4
+3454-JFUBC,1.17,Low Risk,Two year,68,20.0,1396.0
+1768-ZAIFU,81.72,High Risk,Month-to-month,1,25.2,25.2
+7017-VFULY,14.79,Low Risk,Month-to-month,2,20.1,43.15
+9221-OTIVJ,71.46,High Risk,Month-to-month,14,104.85,1531.4
+2482-CZGBB,54.35,Medium Risk,Month-to-month,10,70.0,740.0
+7018-WBJNK,48.8,Medium Risk,Month-to-month,13,78.3,1033.95
+3331-HQDTW,27.5,Low Risk,Month-to-month,34,109.8,3587.25
+4695-VADHF,20.45,Low Risk,Month-to-month,18,57.45,990.85
+4086-WITJG,0.51,Low Risk,Two year,71,19.7,1301.1
+6297-NOOPG,12.02,Low Risk,Two year,70,110.5,7752.05
+8777-PVYGU,3.36,Low Risk,One year,52,64.3,3410.6
+4378-MYPGO,9.0,Low Risk,Two year,68,105.25,7173.15
+9313-CDOGY,7.37,Low Risk,Month-to-month,38,19.6,717.3
+4121-AGSIN,2.08,Low Risk,One year,58,24.5,1497.9
+0432-CAJZV,65.51,High Risk,Month-to-month,3,90.7,237.65
+9097-ZUBYC,17.05,Low Risk,Month-to-month,14,48.8,664.4
+9638-JIQYA,53.38,Medium Risk,Month-to-month,2,24.9,49.7
+1024-GUALD,69.72,High Risk,Month-to-month,1,24.8,24.8
+8024-XNAFQ,0.62,Low Risk,Two year,72,107.4,7748.75
+7587-RZNME,54.22,Medium Risk,Month-to-month,3,43.3,123.65
+1346-UFHAX,47.81,Medium Risk,Month-to-month,13,80.0,1029.35
+6374-NTQLP,7.97,Low Risk,Two year,72,104.1,7447.7
+6625-FLENO,1.66,Low Risk,Two year,58,20.75,1185.95
+7375-WMVMT,1.63,Low Risk,Two year,71,95.5,6707.15
+6910-HADCM,78.72,High Risk,Month-to-month,1,76.35,76.35
+7401-JIXNM,1.85,Low Risk,Two year,54,91.3,4965.0
+7338-ERIVA,3.41,Low Risk,One year,39,45.05,1790.6
+5376-DEQCP,80.22,High Risk,Month-to-month,1,70.6,70.6
+0909-SELIE,1.37,Low Risk,Two year,61,80.8,4860.85
+5419-KLXBN,36.56,Medium Risk,Month-to-month,25,89.15,2257.75
+0365-TRTPY,14.54,Low Risk,Month-to-month,37,91.2,3382.3
+6712-OAWRH,57.32,Medium Risk,Month-to-month,26,91.25,2351.8
+2428-ZMCTB,8.05,Low Risk,Month-to-month,10,19.75,208.25
+1963-VAUKV,31.62,Medium Risk,Month-to-month,1,20.4,20.4
+9381-NDKME,34.38,Medium Risk,Month-to-month,24,40.65,933.3
+3729-OWRVL,24.74,Low Risk,Two year,65,110.35,7246.15
+0895-LMRSF,14.64,Low Risk,One year,23,64.9,1509.8
+2676-SSLTO,2.02,Low Risk,Two year,49,66.15,3199.0
+8495-PRWFH,18.08,Low Risk,Month-to-month,42,55.65,2421.75
+9030-QGZNL,2.46,Low Risk,Two year,8,20.85,161.65
+9972-NKTFD,8.8,Low Risk,Month-to-month,28,54.65,1517.5
+7998-WNZEM,0.43,Low Risk,Two year,71,80.6,5708.2
+0979-PHULV,45.15,Medium Risk,Month-to-month,69,99.45,7007.6
+6445-TNRXS,10.42,Low Risk,Two year,68,114.7,7849.85
+9586-JGQKH,6.46,Low Risk,Two year,64,105.4,6794.75
+3966-HRMZA,57.42,Medium Risk,Month-to-month,3,75.05,202.9
+5498-IBWPI,1.91,Low Risk,One year,66,49.4,3251.85
+6823-SIDFQ,0.58,Low Risk,One year,28,18.25,534.7
+2323-ARSVR,15.35,Low Risk,Two year,67,111.05,7321.05
+5468-BPMMO,8.08,Low Risk,Month-to-month,46,19.6,851.2
+0486-HECZI,38.08,Medium Risk,Month-to-month,55,96.75,5238.9
+2178-PMGCJ,33.3,Medium Risk,Month-to-month,22,69.7,1490.4
+4660-IRIBM,30.83,Medium Risk,Month-to-month,18,87.9,1500.5
+9674-EHPPG,1.82,Low Risk,Two year,46,40.4,1842.7
+5606-AMZBO,47.84,Medium Risk,Month-to-month,10,78.15,765.15
+0665-XHDJU,6.39,Low Risk,Two year,72,99.4,7285.7
+5402-HTOTQ,36.57,Medium Risk,Month-to-month,16,55.3,875.35
+8258-GSTJK,76.56,High Risk,Month-to-month,3,77.0,237.75
+3787-TRIAL,34.17,Medium Risk,Month-to-month,21,26.05,565.75
+6175-IRFIT,51.67,Medium Risk,Month-to-month,5,78.75,426.35
+6317-YPKDH,48.74,Medium Risk,Month-to-month,1,29.95,29.95
+5692-FPTAH,54.47,Medium Risk,Month-to-month,1,45.4,45.4
+5373-SFODM,46.6,Medium Risk,Month-to-month,36,85.25,3132.75
+0868-VJRDR,8.43,Low Risk,Two year,64,104.05,6605.55
+4079-VTGLK,6.4,Low Risk,Two year,30,74.85,2181.75
+1166-PQLGG,0.42,Low Risk,Two year,72,19.55,1463.45
+5296-BFCYD,1.16,Low Risk,Two year,46,20.1,936.85
+6568-POCUI,5.84,Low Risk,Two year,45,95.2,4285.8
+2839-RFSQE,11.99,Low Risk,Month-to-month,2,20.65,38.7
+2188-SXWVT,4.55,Low Risk,One year,34,55.0,1885.15
+8849-GYOKR,14.65,Low Risk,One year,54,106.55,5763.3
+3623-FQBOX,7.96,Low Risk,Month-to-month,21,19.95,416.4
+2649-HWLYB,3.15,Low Risk,Two year,65,76.15,4929.55
+0599-XNYDO,31.31,Medium Risk,Month-to-month,20,69.8,1540.35
+2514-GINMM,89.54,High Risk,Month-to-month,1,79.5,79.5
+8401-EMUWF,9.48,Low Risk,Month-to-month,42,69.4,3058.3
+5766-ZJYBB,31.79,Medium Risk,Month-to-month,1,19.4,19.4
+2604-IJPDU,52.93,Medium Risk,Month-to-month,20,96.55,1901.65
+2501-XWWTZ,40.4,Medium Risk,Month-to-month,11,70.2,760.05
+6370-ZVHDV,0.8,Low Risk,Two year,61,25.3,1554.9
+3027-YNWZU,0.83,Low Risk,Two year,64,25.0,1584.8
+4526-ZJJTM,34.43,Medium Risk,Month-to-month,25,88.4,2191.15
+0440-QEXBZ,12.97,Low Risk,Month-to-month,44,50.15,2139.1
+0330-IVZHA,47.29,Medium Risk,Month-to-month,5,69.95,330.15
+9758-MFWGD,9.76,Low Risk,One year,48,29.9,1388.75
+4229-CZMLL,74.48,High Risk,Month-to-month,6,74.9,469.8
+0742-MOABM,27.14,Low Risk,Month-to-month,4,50.05,179.35
+4277-BWBML,0.35,Low Risk,Two year,72,19.95,1322.85
+5136-GFPMB,24.12,Low Risk,Month-to-month,54,89.4,4869.5
+7520-HQWJU,3.73,Low Risk,Month-to-month,66,67.45,4508.65
+6304-IJFSQ,42.67,Medium Risk,Month-to-month,3,49.9,130.1
+0297-RBCSG,14.03,Low Risk,One year,19,65.35,1231.85
+6013-BHCAW,1.97,Low Risk,Two year,61,81.0,4976.15
+4402-FTBXC,17.03,Low Risk,Month-to-month,54,89.8,4667.0
+1471-GIQKQ,49.5,Medium Risk,Month-to-month,1,49.95,49.95
+4283-FUTGF,59.1,Medium Risk,Month-to-month,19,79.85,1471.75
+9548-LERKT,1.77,Low Risk,Two year,24,19.75,483.15
+8059-UDZFY,38.86,Medium Risk,Month-to-month,33,105.35,3465.05
+0410-IPFTY,49.42,Medium Risk,Month-to-month,31,83.85,2674.15
+2478-EEWWM,40.47,Medium Risk,Month-to-month,59,44.3,2666.75
+4619-EVPHY,28.03,Low Risk,One year,20,91.0,1859.5
+2277-DJJDL,40.33,Medium Risk,Month-to-month,60,99.0,6017.9
+2911-WDXMV,35.63,Medium Risk,Month-to-month,18,80.55,1406.65
+3639-XJHKQ,22.68,Low Risk,Month-to-month,19,60.6,1297.8
+8173-RXAYP,1.39,Low Risk,Two year,24,19.7,452.55
+4537-CIBHB,3.37,Low Risk,One year,9,20.25,172.35
+5442-BXVND,6.53,Low Risk,Month-to-month,33,24.25,838.5
+2308-STERM,15.43,Low Risk,Month-to-month,2,19.4,61.05
+7159-NOKYQ,8.08,Low Risk,Two year,67,93.15,6368.2
+6075-QMNRR,10.53,Low Risk,Month-to-month,52,49.75,2535.55
+3694-GLTJM,14.03,Low Risk,Month-to-month,5,19.65,92.05
+9629-NHXFW,40.53,Medium Risk,Month-to-month,1,19.4,19.4
+7167-PCEYD,0.85,Low Risk,Two year,67,19.8,1311.3
+2748-MYRVK,15.8,Low Risk,One year,63,99.9,6137.0
+4223-WOZCM,56.66,Medium Risk,Month-to-month,2,49.95,107.1
+6946-LMSQS,22.82,Low Risk,One year,25,89.05,2177.45
+5469-NUJUR,1.94,Low Risk,Two year,19,19.95,373.5
+6388-TABGU,2.73,Low Risk,One year,62,56.15,3487.95
+1261-FWTTE,36.15,Medium Risk,Month-to-month,23,34.65,768.45
+8590-YFFQO,1.06,Low Risk,Two year,70,64.95,4523.25
+0082-OQIQY,44.13,Medium Risk,Month-to-month,29,94.2,2607.6
+9465-RWMXL,51.92,Medium Risk,Month-to-month,32,78.9,2447.95
+2930-UOTMB,5.49,Low Risk,Month-to-month,31,65.25,1994.3
+9128-CPXKI,12.9,Low Risk,Two year,59,95.8,5655.45
+0484-FFVBJ,12.71,Low Risk,One year,32,64.85,2010.95
+1100-DDVRV,38.42,Medium Risk,Month-to-month,17,49.8,836.35
+9313-QOLTZ,7.2,Low Risk,Month-to-month,26,20.9,518.3
+3338-CVVEH,73.46,High Risk,Month-to-month,12,94.55,1173.55
+1131-SUEKT,8.12,Low Risk,One year,61,98.45,6145.2
+7602-DBTOU,0.72,Low Risk,Two year,71,19.6,1416.5
+1385-TQOZW,9.42,Low Risk,Month-to-month,9,20.45,147.55
+6892-XPFPU,71.76,High Risk,Month-to-month,24,104.25,2433.9
+4115-NZRKS,70.92,High Risk,Month-to-month,7,89.15,574.35
+5514-YQENT,9.16,Low Risk,Two year,41,111.15,4507.15
+6319-IEJWJ,53.24,Medium Risk,Month-to-month,20,90.2,1776.55
+8849-AYPTR,38.74,Medium Risk,Month-to-month,33,91.25,2964.05
+5893-PYOLZ,1.58,Low Risk,Two year,56,81.8,4534.45
+7180-PISOG,84.82,High Risk,Month-to-month,1,74.5,74.5
+8443-ZRDBZ,76.1,High Risk,Month-to-month,4,76.05,318.9
+9079-YEXQJ,28.06,Low Risk,Month-to-month,54,111.1,6014.85
+3780-YVMFA,31.8,Medium Risk,Month-to-month,8,68.55,564.35
+6968-MHOMU,22.42,Low Risk,One year,58,45.0,2689.35
+0899-LIIBW,43.82,Medium Risk,Month-to-month,34,100.85,3527.3
+3677-IYRBF,79.81,High Risk,Month-to-month,2,30.4,78.65
+8393-DLHGA,58.06,Medium Risk,Month-to-month,25,95.9,2448.75
+7691-XVTZH,5.15,Low Risk,Two year,68,89.95,5974.3
+5360-LJCNJ,17.03,Low Risk,Two year,71,105.15,7555.0
+3891-PUQOD,64.3,High Risk,Month-to-month,1,59.2,59.2
+0952-KMEEH,60.06,High Risk,Month-to-month,13,98.15,1230.25
+4919-IKATY,63.91,High Risk,Month-to-month,5,84.5,453.75
+9746-UGFAC,3.96,Low Risk,One year,22,20.85,450.65
+9108-EQPNQ,2.25,Low Risk,Two year,10,26.1,225.55
+0531-ZZJWQ,38.74,Medium Risk,Month-to-month,55,74.0,4052.4
+8763-KIAFH,2.24,Low Risk,One year,27,20.55,583.3
+5863-OOKCL,1.81,Low Risk,Month-to-month,10,18.85,163.2
+2958-NHPPS,9.88,Low Risk,Month-to-month,23,20.85,473.9
+9530-GRMJG,4.92,Low Risk,Two year,70,84.1,5979.7
+1809-DMJHQ,26.3,Low Risk,Month-to-month,5,46.0,221.7
+0164-XAIRP,1.97,Low Risk,Two year,24,19.55,470.2
+2926-JEJJC,4.53,Low Risk,One year,8,20.2,140.95
+1169-WCVAK,21.16,Low Risk,Month-to-month,19,88.8,1672.35
+1217-VASWC,40.59,Medium Risk,One year,43,100.55,4304.0
+2452-KDRRH,43.74,Medium Risk,Month-to-month,67,101.4,6841.05
+6402-EJMWF,39.82,Medium Risk,Month-to-month,4,55.3,238.5
+7663-CUXZB,12.61,Low Risk,Two year,59,113.75,6561.25
+4312-KFRXN,0.37,Low Risk,Two year,72,25.4,1710.9
+3011-WQKSZ,14.7,Low Risk,Month-to-month,19,20.0,377.55
+9747-DDZOS,70.69,High Risk,Month-to-month,1,73.5,73.5
+2091-MJTFX,10.96,Low Risk,Month-to-month,30,51.2,1561.5
+0388-EOPEX,53.67,Medium Risk,Month-to-month,2,74.4,139.4
+3161-ONRWK,1.62,Low Risk,One year,60,65.85,3928.3
+2587-EKXTS,36.39,Medium Risk,Month-to-month,44,111.5,4915.15
+9752-ZNQUT,63.53,High Risk,Month-to-month,1,48.6,48.6
+9572-WUKSB,50.61,Medium Risk,Month-to-month,3,29.9,92.25
+3836-FZSDJ,0.86,Low Risk,Two year,71,24.85,1901.0
+8805-JNRAZ,37.84,Medium Risk,Month-to-month,2,49.2,103.7
+3069-SSVSN,19.53,Low Risk,One year,1,25.85,25.85
+8015-IHCGW,1.31,Low Risk,Two year,72,115.5,8425.15
+8132-YPVBX,71.03,High Risk,Month-to-month,6,85.95,514.6
+0235-KGSLC,81.1,High Risk,Month-to-month,1,85.55,85.55
+1302-UHBDD,47.96,Medium Risk,Month-to-month,20,89.95,1648.45
+3722-WPXTK,86.7,High Risk,Month-to-month,1,88.35,88.35
+7531-GQHME,7.35,Low Risk,Month-to-month,12,20.05,265.45
+1335-NTIUC,48.62,Medium Risk,Month-to-month,9,24.95,190.25
+9367-TCUYN,8.84,Low Risk,Month-to-month,12,20.1,223.6
+1536-HBSWP,44.72,Medium Risk,Month-to-month,1,49.9,49.9
+8573-JGCZW,4.32,Low Risk,One year,17,19.65,351.55
+2694-CIUMO,55.0,Medium Risk,Month-to-month,12,79.55,958.25
+2027-FECZV,72.64,High Risk,Month-to-month,12,106.7,1253.9
+9103-TCIHJ,18.76,Low Risk,Month-to-month,15,55.7,899.8
+1545-JFUML,2.7,Low Risk,Two year,71,99.0,6994.6
+0524-IAVZO,58.05,Medium Risk,Month-to-month,30,85.0,2624.25
+5519-TEEUH,2.67,Low Risk,One year,33,20.15,682.15
+6654-QGBZZ,38.56,Medium Risk,Month-to-month,1,19.9,19.9
+2294-DMMUS,10.05,Low Risk,Month-to-month,62,70.45,4300.45
+0017-IUDMW,1.59,Low Risk,Two year,72,116.8,8456.75
+5018-LXQQG,7.7,Low Risk,Month-to-month,30,66.3,1923.5
+5808-TOTXO,5.43,Low Risk,One year,3,20.55,57.4
+1174-FGIFN,23.97,Low Risk,One year,28,90.45,2509.25
+0730-KOAVE,30.99,Medium Risk,Month-to-month,30,94.3,2679.7
+1218-VKFPE,1.58,Low Risk,Month-to-month,12,19.0,233.55
+5313-FPXWG,2.92,Low Risk,One year,51,24.6,1266.4
+2834-JKOOW,8.88,Low Risk,One year,15,45.9,693.45
+9430-NKQLY,0.36,Low Risk,Two year,72,25.1,1790.8
+0363-QJVFX,24.04,Low Risk,Month-to-month,32,108.15,3432.9
+1658-TJVOA,52.08,Medium Risk,Month-to-month,6,74.1,450.9
+6685-GBWJZ,2.86,Low Risk,One year,63,70.8,4448.8
+6328-ZPBGN,74.98,High Risk,Month-to-month,11,95.15,997.65
+4003-FUSHP,15.67,Low Risk,Month-to-month,19,61.55,1093.2
+7690-KPNCU,6.23,Low Risk,One year,64,73.05,4688.65
+2969-WGHQO,9.25,Low Risk,One year,7,69.45,477.05
+1855-CFULU,15.99,Low Risk,Month-to-month,4,20.05,91.45
+9788-YTFGE,10.94,Low Risk,Month-to-month,7,19.95,147.5
+8266-VBFQL,57.92,Medium Risk,Month-to-month,4,90.4,356.65
+2325-NBPZG,52.17,Medium Risk,Month-to-month,3,74.55,233.65
+9906-NHHVC,3.95,Low Risk,Two year,65,53.5,3517.9
+2541-YGPKE,10.44,Low Risk,One year,42,63.7,2763.35
+5049-MUBWG,7.43,Low Risk,One year,26,75.0,1908.35
+2332-TODQS,3.21,Low Risk,One year,48,25.05,1171.5
+4419-UJMUS,10.34,Low Risk,Two year,69,99.35,6856.45
+2233-TXSIU,6.78,Low Risk,One year,17,44.45,792.15
+6770-XUAGN,47.88,Medium Risk,Month-to-month,1,21.0,21.0
+2919-HBCJO,59.32,Medium Risk,Month-to-month,4,76.65,333.6
+9508-ILZDG,44.16,Medium Risk,Month-to-month,34,96.35,3190.25
+5442-BHQNG,50.56,Medium Risk,Month-to-month,2,70.35,139.25
+7250-EQKIY,49.83,Medium Risk,Month-to-month,1,50.45,50.45
+6838-HVLXG,7.5,Low Risk,Month-to-month,12,20.3,246.7
+9767-FFLEM,30.41,Medium Risk,Month-to-month,38,69.5,2625.25
+2245-ADZFJ,2.4,Low Risk,Two year,31,80.55,2471.6
+1150-WFARN,15.05,Low Risk,Two year,67,108.75,7156.2
+9054-FOWNV,58.26,Medium Risk,Month-to-month,22,88.75,1885.15
+7997-EASSD,4.57,Low Risk,One year,63,81.2,4965.1
+7560-QJAVJ,2.27,Low Risk,Two year,70,79.6,5589.45
+2668-TZSPS,31.62,Medium Risk,Month-to-month,1,20.45,20.45
+9139-WQQDY,18.35,Low Risk,One year,49,100.45,4941.8
+6726-NNFWD,1.75,Low Risk,Two year,71,89.45,6435.25
+9330-DHBFL,4.25,Low Risk,One year,23,66.25,1533.8
+5727-MYATE,0.47,Low Risk,Two year,72,90.8,6397.6
+2824-DXNKN,0.64,Low Risk,Two year,72,71.45,5025.85
+6166-ILMNY,47.23,Medium Risk,Month-to-month,2,69.75,144.55
+5236-XMZJY,10.64,Low Risk,Month-to-month,42,59.65,2536.55
+1709-EJDOX,1.49,Low Risk,Two year,47,19.75,948.9
+4962-CHQPW,2.6,Low Risk,One year,29,19.85,535.05
+0301-FIDRB,0.44,Low Risk,Two year,72,63.8,4684.3
+1820-TQVEV,86.3,High Risk,Month-to-month,1,69.55,69.55
+9115-YQHGA,13.12,Low Risk,Month-to-month,40,51.1,2092.9
+1541-ETJZO,36.24,Medium Risk,Month-to-month,1,62.05,62.05
+6230-BSUXY,89.66,High Risk,Month-to-month,1,85.0,85.0
+6797-LNAQX,4.71,Low Risk,Two year,70,98.3,6859.5
+9588-YRFHY,1.13,Low Risk,Two year,49,19.9,1022.6
+1092-GANHU,44.75,Medium Risk,Month-to-month,17,76.65,1313.55
+5951-AOFIH,15.11,Low Risk,Month-to-month,33,66.4,2245.4
+7029-RPUAV,57.29,Medium Risk,Month-to-month,17,100.45,1622.45
+4700-UBQMV,17.44,Low Risk,One year,21,75.9,1549.75
+3594-UVONA,9.74,Low Risk,One year,35,85.95,3110.1
+7750-EYXWZ,16.55,Low Risk,One year,12,60.65,743.3
+7054-ENNGU,16.82,Low Risk,Month-to-month,9,50.85,466.6
+0402-OAMEN,0.29,Low Risk,Two year,72,24.45,1709.1
+2195-VVRJF,15.95,Low Risk,Month-to-month,18,59.1,1011.05
+8819-ZBYNA,16.74,Low Risk,Two year,58,109.1,6393.65
+7748-UMTRK,52.12,Medium Risk,Month-to-month,30,101.3,2974.5
+1741-WTPON,9.07,Low Risk,Two year,56,115.85,6567.9
+7209-JCUDS,76.7,High Risk,Month-to-month,10,94.9,1048.85
+2485-ITVKB,69.74,High Risk,Month-to-month,2,35.1,68.75
+9648-BCHKM,2.33,Low Risk,Two year,18,24.65,471.35
+0743-HRVFF,14.2,Low Risk,One year,51,56.15,2898.95
+2522-AHJXR,22.62,Low Risk,Month-to-month,60,109.45,6572.85
+9143-CANJF,12.93,Low Risk,Month-to-month,24,55.15,1319.85
+1444-VVSGW,20.92,Low Risk,One year,70,115.65,7968.85
+6898-MDLZW,15.76,Low Risk,Month-to-month,12,53.75,648.65
+0074-HDKDG,4.92,Low Risk,One year,25,61.6,1611.0
+3982-JGSFD,2.49,Low Risk,One year,36,20.35,695.85
+7928-VJYAB,46.98,Medium Risk,Month-to-month,11,90.6,1020.2
+1522-VVDMG,54.35,Medium Risk,Month-to-month,7,89.75,608.8
+2665-NPTGL,64.97,High Risk,Month-to-month,26,98.1,2510.7
+8728-SKJLR,33.46,Medium Risk,Month-to-month,41,74.25,3089.1
+7733-UDMTP,37.95,Medium Risk,Month-to-month,57,55.0,3094.05
+0431-APWVY,24.82,Low Risk,One year,28,90.1,2598.95
+5081-NWSUP,12.91,Low Risk,One year,10,64.9,685.55
+2746-DIJLO,7.24,Low Risk,One year,41,56.3,2364.0
+7277-OZCGZ,31.54,Medium Risk,Month-to-month,22,89.05,1886.25
+5236-PERKL,15.19,Low Risk,Two year,57,112.95,6465.0
+2788-CJQAQ,3.34,Low Risk,One year,13,19.45,270.2
+3096-WPXBT,11.21,Low Risk,One year,61,100.7,6018.65
+9962-BFPDU,40.55,Medium Risk,Month-to-month,1,20.05,20.05
+2892-GESUL,2.19,Low Risk,Two year,18,19.35,309.25
+9741-YLNTD,68.81,High Risk,Month-to-month,6,87.95,522.35
+1205-WNWPJ,22.22,Low Risk,Month-to-month,7,59.5,415.95
+3173-NVMPX,30.22,Medium Risk,Month-to-month,9,55.3,501.2
+9661-MHUMO,37.12,Medium Risk,Month-to-month,1,49.25,49.25
+6000-APYLU,60.13,High Risk,Month-to-month,9,80.8,713.1
+0048-PIHNL,2.13,Low Risk,One year,49,20.45,900.9
+9420-LOJKX,63.96,High Risk,Month-to-month,15,99.1,1426.4
+7061-OVMIM,2.81,Low Risk,One year,30,19.55,608.5
+5671-RQRLP,14.38,Low Risk,Two year,70,75.65,5411.4
+5129-JLPIS,66.36,High Risk,Month-to-month,25,105.5,2686.05
+5170-PTRKA,2.61,Low Risk,One year,49,35.8,1782.0
+4819-HJPIW,18.48,Low Risk,Month-to-month,18,25.15,476.8
+8780-RSYYU,4.59,Low Risk,Month-to-month,25,19.2,532.1
+2335-GSODA,1.62,Low Risk,Two year,23,40.1,857.75
+5696-CEIQJ,4.28,Low Risk,Two year,67,103.15,6895.5
+6169-PPETC,0.94,Low Risk,Two year,35,20.5,759.35
+4237-RLAQD,55.01,Medium Risk,Month-to-month,1,45.85,45.85
+7359-WWYJV,2.47,Low Risk,Two year,72,114.45,8375.05
+8620-RJPZN,36.89,Medium Risk,Month-to-month,1,20.7,20.7
+7426-WEIJX,16.12,Low Risk,Month-to-month,60,80.95,4859.1
+7629-WIXZF,17.5,Low Risk,One year,7,59.1,369.25
+2616-FLVQC,1.15,Low Risk,Two year,64,19.55,1240.15
+9163-GHAYE,24.42,Low Risk,Month-to-month,15,48.85,736.8
+4464-JCOLN,5.12,Low Risk,One year,2,19.85,35.9
+2971-SGAFL,30.75,Medium Risk,Month-to-month,13,78.75,995.35
+4735-ASGMA,74.65,High Risk,Month-to-month,26,98.35,2515.3
+5245-VDBUR,5.6,Low Risk,One year,52,35.45,1958.95
+1493-AMTIE,36.43,Medium Risk,Month-to-month,1,20.2,20.2
+1112-CUNAO,54.53,Medium Risk,Month-to-month,15,89.85,1424.95
+7571-YXDAD,59.99,Medium Risk,Month-to-month,2,74.9,147.15
+8714-EUHJO,45.05,Medium Risk,Month-to-month,31,91.15,2995.45
+9040-KZVWO,7.21,Low Risk,One year,26,75.5,2018.1
+6713-OKOMC,16.15,Low Risk,Month-to-month,10,29.75,301.9
+8749-CLJXC,38.56,Medium Risk,Month-to-month,1,20.05,20.05
+4713-LZDRV,72.92,High Risk,Month-to-month,2,79.6,195.05
+6598-RFFVI,2.56,Low Risk,One year,2,19.3,28.3
+7470-MCQTK,46.55,Medium Risk,Month-to-month,13,48.75,633.4
+5524-KHNJP,10.22,Low Risk,One year,33,74.75,2453.3
+1707-HABPF,7.96,Low Risk,One year,46,91.3,4126.35
+4581-LNWUM,40.42,Medium Risk,Month-to-month,13,49.15,649.4
+9710-ZUSHQ,29.68,Low Risk,Month-to-month,37,106.75,4056.75
+1697-LYYYX,0.72,Low Risk,One year,61,19.1,1143.8
+4013-GUXND,37.54,Medium Risk,Month-to-month,1,20.8,20.8
+5022-JNQEQ,57.49,Medium Risk,Month-to-month,9,75.85,647.5
+4983-CCWMC,53.76,Medium Risk,Month-to-month,3,69.6,207.4
+6345-FZOQH,0.64,Low Risk,Two year,69,19.9,1363.45
+0962-CQPWQ,0.75,Low Risk,Two year,62,20.3,1296.15
+5495-GPSRW,1.94,Low Risk,Two year,20,19.7,419.4
+2252-JHJGE,23.4,Low Risk,One year,61,104.0,6363.45
+7356-AYNJP,12.23,Low Risk,One year,4,23.9,97.5
+2019-HDCZY,10.45,Low Risk,Two year,63,102.6,6296.75
+8582-KRHPJ,15.88,Low Risk,Month-to-month,50,35.0,1782.4
+2867-UIMSS,78.5,High Risk,Month-to-month,1,80.5,80.5
+3487-EARAT,16.77,Low Risk,One year,70,74.1,5222.3
+9926-PJHDQ,2.2,Low Risk,Two year,72,76.8,5468.45
+0289-IVARM,8.85,Low Risk,Month-to-month,35,60.55,1982.6
+4672-FOTSD,22.31,Low Risk,Month-to-month,12,67.25,832.3
+6198-PNNSZ,16.02,Low Risk,One year,56,109.8,6109.65
+7603-USHJS,53.47,Medium Risk,Month-to-month,12,73.75,871.4
+6784-XYJAE,7.33,Low Risk,One year,36,55.8,1941.5
+3858-XHYJO,24.76,Low Risk,One year,40,105.75,4228.55
+1087-UDSIH,18.02,Low Risk,Month-to-month,3,19.6,59.75
+7251-LJBQN,36.47,Medium Risk,One year,40,103.75,4188.4
+3200-MNQTF,2.02,Low Risk,Two year,67,70.9,4677.1
+9359-UGBTK,13.94,Low Risk,One year,67,72.35,4991.5
+8160-HOWOX,38.53,Medium Risk,Month-to-month,7,66.85,458.1
+0258-NOKBL,50.38,Medium Risk,Month-to-month,3,90.4,268.45
+2800-QQUSO,50.96,Medium Risk,Month-to-month,42,100.3,4222.95
+2129-ALKBS,12.54,Low Risk,Month-to-month,40,26.2,1077.5
+9972-VAFJJ,16.03,Low Risk,One year,53,94.0,4871.45
+4693-VWVBO,19.06,Low Risk,Month-to-month,3,19.55,61.05
+6969-MVBAI,79.73,High Risk,Month-to-month,9,90.1,816.8
+4821-WQOYN,0.37,Low Risk,Two year,72,20.1,1326.25
+6769-DYBQN,31.52,Medium Risk,Month-to-month,46,85.0,3969.4
+4018-PPNDW,0.76,Low Risk,Two year,61,24.1,1551.6
+6288-CHQJB,1.18,Low Risk,Two year,54,69.95,3871.85
+4905-JEFDW,39.17,Medium Risk,One year,11,41.6,470.6
+0559-CKHUS,1.86,Low Risk,Two year,29,19.55,521.8
+2659-VXMWZ,11.9,Low Risk,One year,67,111.3,7482.1
+6559-RAKOZ,27.62,Low Risk,One year,49,97.95,4917.9
+8809-XKHMD,0.64,Low Risk,Two year,72,100.55,7325.1
+6365-HITVU,0.55,Low Risk,Two year,71,87.25,6328.7
+0134-XWXCE,13.53,Low Risk,One year,44,74.85,3268.05
+9720-JJJOR,6.41,Low Risk,One year,41,60.3,2511.3
+2782-LFZVW,28.66,Low Risk,Month-to-month,11,58.95,601.6
+6112-KTHFQ,5.38,Low Risk,Month-to-month,13,19.3,279.3
+9220-ZNKJI,5.29,Low Risk,Two year,55,88.8,4805.3
+9820-RMCQV,14.81,Low Risk,Month-to-month,11,48.55,501.0
+9013-AQORL,17.51,Low Risk,Month-to-month,48,45.55,2108.35
+2040-OBMLJ,7.57,Low Risk,One year,31,81.7,2548.65
+5574-NXZIU,12.31,Low Risk,Two year,63,109.2,7049.75
+5446-DKWYW,9.75,Low Risk,One year,61,65.2,3965.05
+0480-KYJVA,0.29,Low Risk,Two year,72,24.25,1784.5
+1074-AMIOH,19.57,Low Risk,Month-to-month,53,108.25,5935.1
+0015-UOCOJ,32.83,Medium Risk,Month-to-month,7,48.2,340.35
+0256-LTHVJ,43.96,Medium Risk,Month-to-month,28,81.05,2227.1
+4547-LYTDD,44.47,Medium Risk,Month-to-month,16,72.65,1194.3
+1077-HUUJM,63.85,High Risk,Month-to-month,7,71.05,472.65
+2041-JIJCI,48.3,Medium Risk,Month-to-month,5,64.0,370.25
+1555-HAPSU,0.45,Low Risk,Two year,71,23.9,1663.5
+4323-SADQS,28.73,Low Risk,Month-to-month,7,34.5,279.25
+3292-PBZEJ,76.0,High Risk,Month-to-month,11,111.4,1183.05
+6203-HBZPA,2.03,Low Risk,Two year,52,63.9,3334.95
+9755-JHNMN,1.98,Low Risk,Two year,49,67.4,3306.85
+7369-TRPFD,0.64,Low Risk,One year,19,18.8,279.2
+9878-TNQGW,71.74,High Risk,Month-to-month,2,80.95,171.15
+2279-AXJJK,22.02,Low Risk,Month-to-month,52,95.65,5088.4
+5016-IBERQ,48.86,Medium Risk,Month-to-month,23,84.25,1968.1
+1016-DJTSV,57.72,Medium Risk,Month-to-month,8,69.7,572.85
+8433-WPJTV,16.6,Low Risk,One year,65,103.9,6767.1
+8903-XEBGX,65.7,High Risk,Month-to-month,2,55.3,108.65
+2632-TACXW,0.91,Low Risk,Two year,62,23.65,1416.75
+7952-OBOYL,67.22,High Risk,Month-to-month,3,89.85,244.45
+1470-PSXNM,21.0,Low Risk,One year,49,93.65,4520.15
+6227-HWPWX,23.8,Low Risk,Month-to-month,15,69.0,994.8
+5924-SNGKP,2.5,Low Risk,One year,41,20.25,865.0
+8818-DOPVL,57.75,Medium Risk,Month-to-month,46,104.45,4863.85
+4521-WFJAI,1.48,Low Risk,Two year,56,25.95,1444.05
+4724-WXVWF,26.04,Low Risk,Month-to-month,48,95.4,4445.3
+3717-OEAUQ,51.45,Medium Risk,Month-to-month,2,70.7,129.2
+8165-ZJRNM,0.31,Low Risk,Two year,72,23.75,1679.25
+7838-LAZFO,8.3,Low Risk,One year,45,78.8,3597.5
+0513-RBGPE,1.47,Low Risk,Two year,37,62.8,2278.75
+7251-XFOIL,14.37,Low Risk,Month-to-month,61,89.2,5500.6
+2525-GVKQU,1.21,Low Risk,Two year,60,20.6,1093.0
+7579-OOPEC,45.71,Medium Risk,Month-to-month,2,50.15,115.1
+3795-GWTRD,1.12,Low Risk,Two year,63,75.55,4707.85
+4750-ZRXIU,82.23,High Risk,Month-to-month,4,84.6,360.1
+5445-PZWGX,9.23,Low Risk,One year,62,102.0,6529.25
+0516-UXRMT,9.23,Low Risk,One year,62,92.05,5755.8
+0727-BNRLG,4.93,Low Risk,Two year,69,97.65,6743.55
+3932-CMDTD,53.87,Medium Risk,One year,4,105.65,443.9
+1264-FUHCX,15.12,Low Risk,One year,49,56.3,2780.6
+6194-HBGQN,3.83,Low Risk,One year,51,81.15,4126.2
+4524-QCSSM,22.34,Low Risk,Month-to-month,26,44.65,1156.55
+4570-QHXHL,37.44,Medium Risk,Month-to-month,9,43.75,405.7
+2972-YDYUW,12.07,Low Risk,One year,57,94.7,5468.95
+2061-VVFST,6.79,Low Risk,Month-to-month,37,19.5,805.2
+6874-SGLHU,26.27,Low Risk,One year,30,97.0,3021.3
+9844-FELAJ,22.53,Low Risk,One year,70,107.9,7475.85
+1902-XBTFB,51.3,Medium Risk,Month-to-month,22,89.4,2001.5
+9039-RBEEE,10.76,Low Risk,Month-to-month,39,48.95,1880.85
+9369-XFEHK,41.47,Medium Risk,Month-to-month,33,80.6,2656.5
+3680-CTHUH,13.89,Low Risk,One year,60,116.6,7049.5
+3679-XASPY,36.38,Medium Risk,Month-to-month,1,19.45,19.45
+9089-UOWJG,25.14,Low Risk,Month-to-month,12,58.35,740.55
+1574-DYCWE,1.27,Low Risk,Two year,51,19.95,1028.75
+9779-DPNEJ,47.78,Medium Risk,Month-to-month,22,80.15,1790.65
+2967-MXRAV,4.01,Low Risk,One year,1,18.8,18.8
+0327-WFZSY,31.67,Medium Risk,One year,39,100.0,3835.55
+1731-TVIUK,81.66,High Risk,Month-to-month,4,93.5,362.2
+7666-WKRON,6.23,Low Risk,Two year,39,80.45,3201.55
+3865-ZYKAD,20.3,Low Risk,Month-to-month,69,84.9,5785.65
+1465-LNTLJ,18.44,Low Risk,Month-to-month,8,64.4,581.7
+2696-RZVZW,0.62,Low Risk,Two year,68,25.05,1629.2
+0685-MLYYM,57.45,Medium Risk,Month-to-month,2,70.75,154.85
+2778-OCLGR,29.86,Low Risk,Month-to-month,24,39.1,971.3
+3982-XWFZQ,20.74,Low Risk,Month-to-month,42,50.25,2203.65
+4759-PXTAN,12.46,Low Risk,One year,59,80.1,4693.2
+1448-PWKYE,84.51,High Risk,Month-to-month,1,80.0,80.0
+8741-LQOBK,11.14,Low Risk,Month-to-month,46,35.05,1620.25
+8650-RHRKE,57.61,Medium Risk,Month-to-month,4,29.65,118.5
+7266-GSSJX,10.95,Low Risk,Month-to-month,11,20.45,250.8
+1265-HVPZB,3.38,Low Risk,One year,59,66.4,3958.2
+9640-ZSLDC,8.71,Low Risk,One year,53,60.6,3297.0
+0988-JRWWP,56.07,Medium Risk,Month-to-month,3,54.2,140.4
+1926-QUZNN,0.47,Low Risk,Two year,72,25.25,1841.2
+9025-ZRPVR,5.82,Low Risk,Month-to-month,9,18.95,185.6
+6527-PZFPV,3.63,Low Risk,One year,24,20.8,469.65
+7460-ITWWP,31.85,Medium Risk,Month-to-month,45,86.1,3861.45
+1530-ZTDOZ,14.17,Low Risk,Month-to-month,49,40.65,2070.75
+4785-FCIFB,0.84,Low Risk,Two year,61,24.4,1417.9
+9717-QEBGU,63.04,High Risk,Month-to-month,2,70.3,144.0
+0876-WDUUZ,66.89,High Risk,Month-to-month,5,85.4,425.9
+7881-EVUAD,62.47,High Risk,Month-to-month,2,42.6,72.4
+4002-BQWPQ,10.54,Low Risk,Month-to-month,25,81.75,2028.8
+6377-WHAOX,50.7,Medium Risk,Month-to-month,60,106.15,6411.25
+5027-YOCXN,14.17,Low Risk,One year,51,110.05,5686.4
+8450-JOVAH,29.51,Low Risk,Month-to-month,2,56.7,113.55
+6646-QVXLR,29.79,Low Risk,One year,62,103.75,6383.35
+0254-KCJGT,9.47,Low Risk,One year,52,81.4,4354.45
+3442-ZHHCC,24.42,Low Risk,One year,68,76.9,5023.0
+9167-APMXZ,43.67,Medium Risk,Month-to-month,22,84.15,1821.95
+0616-ATFGB,75.96,High Risk,Month-to-month,1,25.05,25.05
+7273-TEFQD,72.12,High Risk,Month-to-month,3,41.15,132.2
+8245-UMPYT,75.62,High Risk,Month-to-month,16,96.4,1581.2
+6022-UGGSO,45.17,Medium Risk,Month-to-month,32,74.4,2276.95
+6292-TOSSS,1.9,Low Risk,Two year,50,24.9,1195.25
+5207-PLSTK,47.35,Medium Risk,Month-to-month,1,48.75,48.75
+3908-BLSYF,63.29,High Risk,Month-to-month,6,83.9,497.55
+4317-VTEOA,63.13,High Risk,Month-to-month,1,50.75,50.75
+0625-AFOHS,1.09,Low Risk,Two year,29,20.2,558.8
+4667-OHGKG,37.42,Medium Risk,Month-to-month,1,19.3,19.3
+2386-OWURY,31.44,Medium Risk,Month-to-month,58,95.3,5817.7
+3780-DDGSE,18.68,Low Risk,Month-to-month,35,76.05,2747.2
+1047-RNXZV,1.7,Low Risk,Two year,43,19.55,876.15
+3926-YZVVX,3.17,Low Risk,One year,41,50.05,2029.05
+4742-TXUEX,0.75,Low Risk,Two year,47,19.3,890.5
+8709-KRDVL,57.18,Medium Risk,Month-to-month,33,100.0,3320.6
+0397-ZXWQF,0.52,Low Risk,Two year,67,20.5,1430.95
+3910-MRQOY,0.79,Low Risk,Two year,72,19.4,1496.45
+2511-MORQY,6.14,Low Risk,One year,50,54.9,2614.1
+4039-PIMHX,6.64,Low Risk,Two year,49,49.8,2398.4
+8083-YTZES,74.83,High Risk,Month-to-month,4,74.35,265.35
+1346-PJWTK,9.28,Low Risk,Month-to-month,61,94.15,5731.85
+3750-YHRYO,2.91,Low Risk,One year,7,20.65,150.0
+1236-WFCDV,44.75,Medium Risk,Month-to-month,14,90.45,1266.1
+5949-HGVJL,16.93,Low Risk,Month-to-month,26,73.05,1959.5
+9112-WSNPU,40.32,Medium Risk,Month-to-month,35,70.55,2419.0
+1360-JYXKQ,21.39,Low Risk,One year,54,99.1,5437.1
+3585-ISXZP,74.41,High Risk,Month-to-month,8,95.65,778.1
+8380-PEFPE,82.14,High Risk,Month-to-month,1,71.65,71.65
+9402-ROUMJ,16.44,Low Risk,One year,67,100.25,6689.0
+4335-UPJSI,1.6,Low Risk,Two year,24,19.75,498.1
+6096-EGVTU,1.14,Low Risk,One year,64,24.9,1595.5
+8988-ECPJR,44.33,Medium Risk,Month-to-month,34,79.6,2718.3
+7677-SJJJK,3.3,Low Risk,One year,8,19.9,153.95
+5850-BDWCY,8.43,Low Risk,Month-to-month,6,20.2,123.65
+2025-JKFWI,66.72,High Risk,Month-to-month,13,99.0,1301.7
+8028-PNXHQ,0.8,Low Risk,Two year,62,24.25,1424.6
+8397-MVTAZ,65.03,High Risk,Month-to-month,34,100.05,3480.0
+4445-ZJNMU,85.92,High Risk,Month-to-month,9,99.3,918.75
+3125-RAHBV,2.56,Low Risk,One year,22,20.3,467.15
+6682-QJDGB,16.82,Low Risk,Month-to-month,40,55.25,2139.2
+8840-DQLGN,23.4,Low Risk,Month-to-month,35,100.5,3653.35
+6258-NGCNG,13.04,Low Risk,Month-to-month,7,23.5,173.0
+5917-RYRMG,2.85,Low Risk,One year,32,19.8,587.7
+7157-SMCFK,2.2,Low Risk,Two year,61,19.75,1124.2
+0816-TSPHQ,11.75,Low Risk,Month-to-month,2,20.75,44.2
+6766-HFKLA,5.73,Low Risk,Two year,56,103.2,5744.35
+7067-KSAZT,27.68,Low Risk,One year,65,106.25,6979.8
+5155-AZQPB,6.45,Low Risk,Month-to-month,28,49.9,1410.25
+6890-PFRQX,13.12,Low Risk,Month-to-month,18,69.5,1199.4
+3508-VLHCZ,0.64,Low Risk,Two year,71,90.55,6239.05
+3649-JPUGY,0.98,Low Risk,Two year,72,88.6,6201.95
+9248-OJYKK,89.16,High Risk,Month-to-month,1,76.45,76.45
+7239-HZZCX,32.94,Medium Risk,Month-to-month,1,19.75,19.75
+9860-LISIZ,5.26,Low Risk,Month-to-month,34,20.35,673.2
+6979-ZNSFF,78.99,High Risk,Month-to-month,8,87.05,762.1
+8938-UMKPI,57.54,Medium Risk,Month-to-month,47,106.4,5127.95
+1820-DJFPH,0.37,Low Risk,Two year,72,24.05,1709.15
+0732-OCQOC,1.23,Low Risk,Two year,52,25.05,1270.25
+6776-TLWOI,14.54,Low Risk,Month-to-month,3,19.85,64.55
+4940-KHCWD,1.75,Low Risk,Two year,60,37.7,2288.7
+9057-SIHCH,88.36,High Risk,Month-to-month,3,96.6,291.9
+9866-QEVEE,38.02,Medium Risk,Month-to-month,19,86.0,1532.45
+5542-TBBWB,84.8,High Risk,Month-to-month,1,69.9,69.9
+4587-VVTOX,84.62,High Risk,Month-to-month,6,105.3,545.2
+6322-HRPFA,9.55,Low Risk,Month-to-month,49,59.6,2970.3
+6284-AHOOQ,40.1,Medium Risk,Month-to-month,22,90.5,1910.6
+4530-NDRKU,3.52,Low Risk,One year,42,19.05,761.85
+1751-NCDLI,63.14,High Risk,Month-to-month,46,98.85,4564.9
+3893-JRNFS,14.07,Low Risk,Month-to-month,68,39.9,2796.35
+5857-XRECV,4.6,Low Risk,One year,2,20.5,38.25
+3115-CZMZD,3.78,Low Risk,Two year,0,20.25,0.0
+4489-SNOJF,13.44,Low Risk,Month-to-month,35,72.25,2568.55
+1051-GEJLJ,19.84,Low Risk,Month-to-month,2,19.5,27.55
+3563-SVYLG,0.78,Low Risk,Two year,68,62.65,4375.8
+4301-VVZKA,65.11,High Risk,Month-to-month,16,75.4,1189.4
+9351-HXDMR,3.98,Low Risk,Two year,72,110.9,8240.85
+5161-XEUVX,6.68,Low Risk,Two year,37,94.3,3460.95
+3088-FVYWK,1.16,Low Risk,Two year,53,25.55,1336.1
+9812-GHVRI,38.01,Medium Risk,Month-to-month,40,83.85,3532.25
+1370-GGAWX,21.79,Low Risk,One year,46,94.15,4408.45
+6023-YEBUP,87.19,High Risk,Month-to-month,3,100.95,329.95
+9940-RHLFB,75.44,High Risk,Month-to-month,1,75.3,75.3
+4541-RMRLG,6.99,Low Risk,Month-to-month,7,19.25,112.3
+2606-RMDHZ,36.91,Medium Risk,Month-to-month,6,30.5,208.7
+5575-TPIZQ,24.1,Low Risk,Month-to-month,46,89.15,4245.55
+9378-FXTIZ,12.26,Low Risk,One year,54,70.15,3715.65
+4631-OACRM,60.87,High Risk,Month-to-month,15,79.4,1156.1
+8593-WHYHV,82.3,High Risk,Month-to-month,3,85.3,264.8
+1403-GYAFU,0.44,Low Risk,Two year,70,20.05,1360.25
+7641-TQFHN,5.13,Low Risk,Two year,39,100.55,3895.35
+4237-CLSMM,12.48,Low Risk,Month-to-month,2,20.0,38.0
+4360-PNRQB,37.17,Medium Risk,Month-to-month,18,75.6,1395.05
+5334-AFQJB,0.81,Low Risk,Two year,72,25.1,1789.9
+9308-ANMVE,22.78,Low Risk,Month-to-month,47,55.3,2654.05
+3530-VWVGU,6.46,Low Risk,Month-to-month,22,19.9,400.3
+4674-HGNUA,0.58,Low Risk,Two year,71,89.9,6457.15
+3030-YDNRM,73.48,High Risk,Month-to-month,8,74.85,572.45
+3642-BYHDO,0.49,Low Risk,Two year,71,19.9,1389.35
+0440-UEDAI,9.67,Low Risk,One year,53,94.45,5042.75
+9819-FBNSV,34.8,Medium Risk,Month-to-month,37,72.25,2575.45
+9289-LBQVU,5.9,Low Risk,One year,64,70.15,4480.7
+4468-YDOVK,28.73,Low Risk,Month-to-month,5,48.65,235.2
+2001-EWBQU,12.04,Low Risk,Two year,60,104.7,6333.8
+9992-UJOEL,49.72,Medium Risk,Month-to-month,2,50.3,92.75
+8409-WQJUX,10.01,Low Risk,One year,25,54.2,1423.15
+3077-RSNTJ,8.63,Low Risk,Month-to-month,6,19.7,113.5
+6993-YCOBK,9.45,Low Risk,Two year,60,110.6,6586.85
+4817-VYYWS,58.69,Medium Risk,Month-to-month,30,100.2,2983.8
+4702-HDRKD,2.4,Low Risk,One year,67,49.35,3321.35
+3251-YMVWZ,2.89,Low Risk,One year,53,24.05,1301.9
+4190-MFLUW,22.99,Low Risk,Month-to-month,10,55.2,528.35
+4678-DVQEO,45.55,Medium Risk,Month-to-month,1,52.2,52.2
+4701-AHWMW,16.05,Low Risk,Month-to-month,55,54.55,2978.3
+2987-BJXIK,2.06,Low Risk,Two year,70,84.7,5991.05
+1730-VFMWO,7.32,Low Risk,Month-to-month,34,50.2,1815.3
+1936-UAFEH,8.74,Low Risk,Two year,68,110.25,7279.35
+5140-FOMCQ,20.98,Low Risk,One year,59,109.15,6557.75
+8778-LMWTJ,52.16,Medium Risk,Month-to-month,9,74.85,708.2
+9840-DVNDC,66.25,High Risk,Month-to-month,6,80.5,463.05
+8033-VCZGH,37.78,Medium Risk,One year,50,103.95,5231.3
+8580-QVLOC,0.71,Low Risk,Two year,72,92.45,6440.25
+6128-AQBMT,46.7,Medium Risk,Month-to-month,41,53.95,2215.4
+6257-RJOHI,29.64,Low Risk,Month-to-month,4,50.8,202.3
+1929-ZCBHE,6.64,Low Risk,One year,47,40.3,1794.8
+6242-SGYTS,3.8,Low Risk,One year,62,94.95,5791.85
+7010-ZMVBF,5.08,Low Risk,Month-to-month,18,20.45,357.0
+3519-ZKXGG,76.1,High Risk,Month-to-month,3,75.85,256.6
+5666-MBJPT,0.9,Low Risk,Two year,65,25.1,1725.0
+3313-QKNKB,20.61,Low Risk,One year,59,85.55,5084.65
+7581-EBBOU,2.52,Low Risk,One year,60,70.15,4224.7
+1784-BXEFA,8.41,Low Risk,Month-to-month,10,20.55,187.35
+7492-TAFJD,2.84,Low Risk,Two year,7,38.55,280.0
+5213-TWWJU,23.88,Low Risk,Month-to-month,28,91.0,2626.15
+3312-ZWLGF,44.64,Medium Risk,Month-to-month,29,79.3,2414.55
+2923-ARZLG,15.19,Low Risk,One year,0,19.7,0.0
+7032-LMBHI,3.77,Low Risk,One year,37,64.65,2347.85
+8292-ITGYJ,2.18,Low Risk,Two year,45,24.65,1138.8
+9107-UKCKY,17.57,Low Risk,One year,61,79.8,4914.8
+6848-HJTXY,1.87,Low Risk,Two year,64,19.45,1208.6
+4184-VODJZ,16.28,Low Risk,One year,63,91.35,5764.7
+4846-WHAFZ,52.84,Medium Risk,Month-to-month,37,76.5,2868.15
+8735-SDUFN,0.63,Low Risk,Two year,72,24.3,1778.7
+0839-JTCUD,2.01,Low Risk,Two year,66,89.9,5958.85
+6857-VWJDT,85.44,High Risk,Month-to-month,1,95.65,95.65
+7363-QTBIW,61.03,High Risk,Month-to-month,9,79.75,769.1
+6158-HDPXZ,51.81,Medium Risk,Month-to-month,1,25.35,25.35
+5419-CONWX,78.63,High Risk,Month-to-month,4,99.8,442.85
+9286-DOJGF,39.31,Medium Risk,Month-to-month,38,74.95,2869.85
+2408-PSJVE,10.38,Low Risk,Month-to-month,44,61.9,2924.05
+2087-QAREY,23.86,Low Risk,Month-to-month,22,54.7,1178.75
+6777-TGHTM,26.73,Low Risk,One year,53,106.95,5785.5
+6507-ZJSUR,54.09,Medium Risk,Month-to-month,23,90.45,2117.25
+5025-GOOKI,5.85,Low Risk,Month-to-month,20,18.9,347.65
+6080-LNESI,1.35,Low Risk,Two year,51,24.75,1234.6
+2236-HILPA,0.58,Low Risk,Two year,62,20.65,1218.45
+1386-ZIKUV,6.13,Low Risk,Month-to-month,7,18.95,130.55
+3365-SAIGS,51.1,Medium Risk,Month-to-month,17,83.55,1329.15
+6061-GWWAV,4.38,Low Risk,One year,41,70.2,2894.55
+9979-RGMZT,40.93,Medium Risk,One year,7,94.05,633.45
+8445-DNBAE,61.98,High Risk,Month-to-month,1,50.05,50.05
+6872-HXFNF,2.22,Low Risk,One year,64,58.35,3756.45
+1320-HTRDR,75.97,High Risk,Month-to-month,3,75.5,220.6
+3923-CSIHK,32.84,Medium Risk,Month-to-month,50,71.05,3444.85
+2446-ZKVAF,19.36,Low Risk,Month-to-month,18,56.8,1074.65
+4640-UHDOS,25.71,Low Risk,Month-to-month,13,55.95,734.35
+5457-COLHT,1.61,Low Risk,Two year,69,80.65,5542.55
+2254-DLXRI,86.56,High Risk,Month-to-month,1,79.15,79.15
+5339-PXDVH,56.69,Medium Risk,Month-to-month,4,90.65,367.95
+2386-LAHRK,56.61,Medium Risk,Month-to-month,1,53.5,53.5
+5062-CJJKH,5.55,Low Risk,One year,25,53.65,1355.45
+8930-XOTDP,19.52,Low Risk,Month-to-month,18,55.95,1082.8
+4779-ZGICK,1.48,Low Risk,Two year,48,23.55,1173.35
+9534-NSXEM,2.51,Low Risk,One year,26,20.65,595.5
+3716-BDVDB,86.3,High Risk,Month-to-month,1,69.1,69.1
+9842-EFSYY,33.77,Medium Risk,Month-to-month,4,57.2,223.75
+9122-UMROB,32.65,Medium Risk,Month-to-month,1,20.3,20.3
+1867-BDVFH,64.63,High Risk,Month-to-month,11,74.35,834.2
+5949-EBSQK,21.0,Low Risk,Month-to-month,4,61.45,229.55
+4160-AMJTL,16.39,Low Risk,Month-to-month,8,19.65,164.3
+8622-ZLFKO,82.42,High Risk,Month-to-month,6,90.75,512.25
+2990-IAJSV,0.41,Low Risk,Two year,72,92.0,6632.75
+6064-ZATLR,2.01,Low Risk,Two year,27,52.85,1498.65
+7409-KIUTL,82.81,High Risk,Month-to-month,1,71.0,71.0
+5505-OVWQW,3.05,Low Risk,One year,17,20.15,353.65
+3948-KXDUF,0.69,Low Risk,Two year,66,68.75,4447.55
+9814-AOUDH,2.09,Low Risk,Two year,53,19.5,1050.5
+7398-LXGYX,25.16,Low Risk,Month-to-month,44,84.8,3626.35
+5266-PFRQK,3.06,Low Risk,One year,52,20.85,1071.6
+1568-BEKZM,3.93,Low Risk,Two year,70,90.05,6333.4
+2692-PFYTJ,34.07,Medium Risk,Month-to-month,1,25.75,25.75
+2533-QVMSK,7.65,Low Risk,Two year,61,94.1,5638.3
+5828-AVIPD,46.27,Medium Risk,One year,19,100.95,1875.55
+2907-ILJBN,2.69,Low Risk,One year,11,20.6,233.9
+5226-NOZFC,50.11,Medium Risk,Month-to-month,26,85.75,2146.5
+7114-AEOZE,1.87,Low Risk,Two year,60,19.85,1128.1
+2202-CUYXZ,85.47,High Risk,Month-to-month,1,84.85,84.85
+3466-RITXD,40.55,Medium Risk,Month-to-month,26,92.4,2349.8
+7278-CKDNC,56.61,Medium Risk,Month-to-month,24,80.5,2088.45
+1956-YIFGE,41.42,Medium Risk,One year,22,100.05,2090.25
+0422-UXFAP,35.64,Medium Risk,One year,51,98.85,4947.55
+3733-UOCWF,4.59,Low Risk,One year,61,85.55,5251.75
+7191-ADRGF,5.97,Low Risk,Two year,44,54.3,2390.45
+5709-LVOEQ,6.43,Low Risk,Two year,0,80.85,0.0
+6034-YMTOB,52.6,Medium Risk,Month-to-month,5,75.65,399.45
+6372-RFVNS,85.55,High Risk,Month-to-month,1,78.8,78.8
+9052-DHNKM,8.34,Low Risk,One year,26,61.55,1581.95
+5609-IMCGG,45.03,Medium Risk,Month-to-month,15,84.35,1302.65
+2959-MJHIC,69.62,High Risk,Month-to-month,4,80.35,307.4
+1319-YLZJG,55.08,Medium Risk,Month-to-month,12,84.6,959.9
+7623-TRNQN,27.79,Low Risk,Month-to-month,1,49.9,49.9
+0377-JBKKT,11.75,Low Risk,Month-to-month,22,57.95,1271.8
+1936-CZAKF,5.3,Low Risk,Two year,49,49.65,2409.9
+5063-IUOKK,2.17,Low Risk,Two year,13,19.75,265.75
+8646-JCOMS,5.87,Low Risk,One year,66,90.55,6130.95
+0979-MOZQI,1.93,Low Risk,Two year,62,39.0,2337.45
+1525-LNLOJ,1.31,Low Risk,Two year,66,63.3,4189.7
+5759-RCVCB,49.12,Medium Risk,Month-to-month,3,35.2,108.95
+9968-FFVVH,1.99,Low Risk,One year,63,68.8,4111.35
+2266-FUBDZ,2.12,Low Risk,Two year,15,19.35,278.85
+4760-THGOT,32.41,Medium Risk,Month-to-month,43,94.1,4107.3
+2307-FYNNL,26.38,Low Risk,Two year,65,109.05,7108.2
+1143-NMNQJ,86.14,High Risk,Month-to-month,2,85.7,169.8
+1629-DQQVB,14.29,Low Risk,Month-to-month,14,50.1,709.5
+3766-EJLFL,23.6,Low Risk,Two year,68,109.05,7508.55
+8457-XIGKN,8.81,Low Risk,Month-to-month,20,19.6,356.15
+4981-FLTMF,4.76,Low Risk,Month-to-month,57,65.2,3687.85
+7606-BPHHN,0.39,Low Risk,Two year,72,19.8,1468.75
+7005-CCBKV,71.42,High Risk,Month-to-month,6,84.4,556.35
+4648-YPBTM,1.82,Low Risk,Two year,53,73.9,3958.25
+2325-ZUSFD,5.7,Low Risk,One year,57,70.1,3913.3
+1240-KNSEZ,46.54,Medium Risk,Month-to-month,1,20.1,20.1
+0430-IHCDJ,48.06,Medium Risk,Month-to-month,15,49.0,749.25
+7957-RYHQD,29.14,Low Risk,Month-to-month,40,79.2,3233.85
+6164-HAQTX,0.73,Low Risk,Two year,71,53.95,3888.65
+0749-IRGQE,55.68,Medium Risk,Month-to-month,13,45.3,528.45
+1227-UDMZR,0.45,Low Risk,Two year,72,91.15,6637.9
+5473-KHBPS,9.92,Low Risk,One year,52,95.7,4976.15
+5297-MDOIR,2.94,Low Risk,One year,63,81.15,5224.5
+8873-TMKGR,0.57,Low Risk,One year,29,19.1,529.5
+6481-ESCNL,37.52,Medium Risk,Month-to-month,29,100.55,2878.75
+0463-WZZKO,16.61,Low Risk,Month-to-month,3,20.75,67.1
+1038-RQOST,4.9,Low Risk,Month-to-month,19,20.6,414.95
+4937-QPZPO,35.04,Medium Risk,One year,61,99.9,6241.35
+3604-WLABM,25.36,Low Risk,Month-to-month,10,54.25,583.0
+1360-XFJMR,20.45,Low Risk,One year,67,109.7,7344.45
+8717-VCTXJ,3.18,Low Risk,One year,42,19.55,839.4
+5196-SGOAK,84.38,High Risk,Month-to-month,1,75.7,75.7
+8739-XNIKG,80.14,High Risk,Month-to-month,5,84.0,424.75
+2320-TZRRH,3.22,Low Risk,One year,20,19.5,403.15
+5186-SAMNZ,83.57,High Risk,Month-to-month,1,69.5,69.5
+5760-FXFVO,54.39,Medium Risk,Month-to-month,6,78.95,494.95
+5380-WJKOV,57.19,Medium Risk,Month-to-month,34,106.35,3549.25
+4703-MQYKT,1.91,Low Risk,Two year,21,19.6,390.4
+2001-MCUUW,20.45,Low Risk,Two year,46,108.65,4903.2
+4947-DSMXK,46.13,Medium Risk,Month-to-month,34,97.7,3410.0
+0076-LVEPS,8.1,Low Risk,Month-to-month,29,45.0,1242.45
+5566-SOEZD,7.52,Low Risk,One year,27,80.65,2209.75
+7408-OFWXJ,0.34,Low Risk,Two year,72,89.8,6510.45
+1097-FSPVW,9.56,Low Risk,Month-to-month,42,54.55,2455.05
+4412-YLTKF,52.03,Medium Risk,Month-to-month,27,78.05,2135.5
+0420-TXVSG,1.11,Low Risk,Two year,66,66.1,4428.45
+7817-BOQPW,75.97,High Risk,Month-to-month,2,75.55,166.3
+0963-ZBDRN,45.03,Medium Risk,Month-to-month,32,96.2,3183.4
+9685-WKZGT,67.78,High Risk,Month-to-month,14,74.95,1036.75
+2139-FQHLM,25.74,Low Risk,Month-to-month,19,89.95,1682.4
+5825-XJOCM,3.87,Low Risk,One year,48,64.4,3035.35
+0004-TLHLJ,65.29,High Risk,Month-to-month,4,73.9,280.85
+7529-ZDFXI,34.08,Medium Risk,Month-to-month,57,89.85,4925.35
+6848-YLDFR,5.92,Low Risk,One year,58,75.2,4300.8
+5820-PTRYM,3.67,Low Risk,One year,56,68.45,4014.0
+2984-RGEYA,0.74,Low Risk,Two year,69,19.75,1375.4
+6434-TTGJP,2.41,Low Risk,Two year,10,53.7,521.0
+9643-AVVWI,61.19,High Risk,Month-to-month,3,80.0,241.3
+3506-OVLKD,3.34,Low Risk,One year,35,26.2,954.9
+4946-EDSEW,5.19,Low Risk,Month-to-month,11,19.25,180.3
+2924-KHUVI,29.56,Low Risk,One year,56,100.55,5514.95
+2263-SFSQZ,1.3,Low Risk,Two year,51,24.95,1222.25
+5281-BUZGT,40.01,Medium Risk,Month-to-month,36,90.85,3186.7
+3717-FDJFU,1.41,Low Risk,Two year,5,20.45,106.9
+2239-CFOUJ,11.08,Low Risk,One year,1,20.4,20.4
+8699-ASUFO,67.44,High Risk,Month-to-month,7,74.4,527.9
+1122-YJBCS,2.38,Low Risk,One year,69,53.65,3804.4
+0628-CNQRM,5.86,Low Risk,One year,22,67.5,1544.05
+1705-GUHPV,0.77,Low Risk,Two year,63,24.2,1618.2
+4877-TSOFF,6.59,Low Risk,One year,55,75.75,4264.25
+7404-JLKQG,43.22,Medium Risk,Month-to-month,3,57.55,161.45
+0379-DJQHR,4.43,Low Risk,Two year,67,81.35,5398.6
+8993-PHFWD,51.1,Medium Risk,Month-to-month,3,25.25,58.9
+3930-ZGWVE,32.94,Medium Risk,Month-to-month,1,19.75,19.75
+1965-DDBWU,39.39,Medium Risk,Month-to-month,16,89.05,1448.6
+7572-KPVKK,21.02,Low Risk,Two year,62,104.05,6590.5
+6854-EXGSF,14.87,Low Risk,Month-to-month,8,65.5,573.15
+9483-GCPWE,3.86,Low Risk,One year,9,20.1,190.25
+8053-WWDRO,10.09,Low Risk,Month-to-month,6,19.5,146.3
+9473-CBZOP,2.71,Low Risk,One year,28,59.0,1654.45
+3985-HOYPM,3.51,Low Risk,One year,26,19.4,525.55
+8378-LKJAF,47.49,Medium Risk,Month-to-month,38,101.15,3956.7
+1310-QRITU,42.15,Medium Risk,Month-to-month,18,50.3,913.3
+3237-AJGEH,34.28,Medium Risk,Month-to-month,3,31.0,95.05
+6542-LWGXJ,50.03,Medium Risk,Month-to-month,3,25.0,78.25
+6953-PBDIN,4.1,Low Risk,Two year,70,72.95,5265.55
+6332-FBZRI,3.51,Low Risk,One year,67,69.35,4653.25
+9365-CSLBQ,0.46,Low Risk,Two year,71,24.35,1654.6
+3466-WAESX,28.88,Low Risk,Month-to-month,16,69.1,1083.7
+9700-ISPUP,21.91,Low Risk,Month-to-month,10,65.5,616.9
+5167-ZFFMM,87.38,High Risk,Month-to-month,1,90.85,90.85
+7669-LCRSD,25.71,Low Risk,Month-to-month,12,56.3,628.65
+0870-VEMYL,25.83,Low Risk,Month-to-month,5,53.85,259.8
+2995-UPRYS,17.34,Low Risk,One year,40,99.2,4062.2
+3179-GBRWV,18.17,Low Risk,Month-to-month,21,64.95,1339.8
+0701-TJSEF,15.18,Low Risk,Month-to-month,9,68.25,576.95
+1848-LBZHY,23.16,Low Risk,Month-to-month,7,50.3,355.1
+5380-XPJNZ,2.48,Low Risk,One year,38,20.05,678.2
+6608-QQLVK,66.36,High Risk,Month-to-month,1,50.5,50.5
+1475-VWVDO,63.23,High Risk,Month-to-month,7,74.9,490.55
+3721-CNEYS,66.04,High Risk,Month-to-month,2,70.95,137.95
+4299-OPXEJ,2.64,Low Risk,Two year,56,19.55,1080.55
+0096-BXERS,37.37,Medium Risk,Month-to-month,6,50.35,314.55
+3055-VTCGS,6.22,Low Risk,One year,63,58.55,3503.5
+9405-GPBBG,7.77,Low Risk,Two year,64,110.5,7069.25
+6704-UTUKK,34.47,Medium Risk,Month-to-month,29,45.9,1332.4
+9944-AEXBM,37.14,Medium Risk,Month-to-month,32,85.65,2664.3
+2545-EBUPK,86.77,High Risk,Month-to-month,2,84.05,186.05
+6270-OMFIW,20.06,Low Risk,One year,60,94.4,5610.25
+1852-XEMDW,11.25,Low Risk,Month-to-month,22,65.05,1427.55
+8158-WPEZG,29.67,Low Risk,Month-to-month,11,35.65,425.1
+5198-EFNBM,15.4,Low Risk,One year,57,90.65,5199.8
+7663-RGWBC,52.82,Medium Risk,Month-to-month,1,44.15,44.15
+3970-XGJDU,1.29,Low Risk,Two year,62,19.2,1123.65
+6845-RGTYS,43.28,Medium Risk,Month-to-month,47,98.75,4533.7
+0123-CRBRT,0.9,Low Risk,Two year,61,88.1,5526.75
+6077-BDPXA,63.04,High Risk,Month-to-month,3,70.15,194.2
+2250-IVBWA,10.86,Low Risk,Month-to-month,64,81.05,5135.35
+6137-NICCO,79.91,High Risk,Month-to-month,6,94.05,518.75
+8129-GMVGI,1.57,Low Risk,Two year,56,20.05,1090.1
+4353-HYOJD,8.88,Low Risk,Month-to-month,27,49.85,1336.15
+8671-KKKOS,23.24,Low Risk,Month-to-month,46,45.55,2062.15
+8080-DDEMJ,66.43,High Risk,Month-to-month,1,45.1,45.1
+6698-OXETB,1.58,Low Risk,Two year,11,20.4,231.45
+3312-UUMZW,50.71,Medium Risk,Month-to-month,32,98.85,3145.9
+6376-GAHQE,58.54,Medium Risk,Month-to-month,4,77.85,299.2
+0733-VUNUW,8.89,Low Risk,Month-to-month,24,55.65,1400.55
+6733-LRIZX,33.78,Medium Risk,Two year,35,108.95,4025.5
+2165-VOEGB,11.29,Low Risk,One year,46,105.2,4822.85
+1853-UDXBW,85.32,High Risk,Month-to-month,1,70.0,70.0
+9070-BCKQP,0.73,Low Risk,Two year,72,110.15,7881.2
+1035-IPQPU,37.63,Medium Risk,Month-to-month,63,103.5,6479.4
+2057-ZBLPD,55.4,Medium Risk,Month-to-month,21,86.5,1808.7
+6967-PEJLL,7.83,Low Risk,One year,37,40.2,1525.35
+7879-CGSFV,20.03,Low Risk,One year,55,100.9,5552.05
+2257-BOVXD,21.25,Low Risk,Month-to-month,14,66.6,979.5
+9822-BIIGN,9.01,Low Risk,Month-to-month,53,71.85,3827.9
+1136-XGEQU,10.0,Low Risk,One year,50,84.15,4164.4
+2439-LYPMQ,54.94,Medium Risk,Month-to-month,38,102.6,4009.2
+6543-XRMYR,59.03,Medium Risk,Month-to-month,30,99.7,2967.35
+5753-QQWPW,7.71,Low Risk,One year,28,59.9,1654.7
+4785-QRJHC,19.26,Low Risk,One year,46,59.9,2816.65
+0052-YNYOT,2.12,Low Risk,One year,67,20.55,1343.4
+7054-LGEQW,48.07,Medium Risk,Month-to-month,1,45.95,45.95
+0608-JDVEC,2.34,Low Risk,Two year,50,19.8,1013.2
+6284-KMNUF,23.96,Low Risk,One year,56,98.0,5270.6
+6286-SUUWT,38.56,Medium Risk,Month-to-month,1,19.95,19.95
+3594-KADLU,29.0,Low Risk,Month-to-month,3,35.1,101.1
+0536-ACXIP,3.29,Low Risk,Two year,72,109.55,8165.1
+8869-TORSS,4.65,Low Risk,One year,48,60.35,2896.4
+0373-AIVNJ,7.68,Low Risk,One year,9,39.55,373.0
+6429-SHBCB,15.15,Low Risk,Month-to-month,19,69.6,1394.55
+5751-USDBL,1.31,Low Risk,Two year,46,81.0,3846.35
+6815-ABQFQ,29.82,Low Risk,One year,56,107.25,6033.3
+9450-TRJUU,46.38,Medium Risk,Month-to-month,35,83.15,2848.45
+2805-AUFQN,1.62,Low Risk,Two year,25,19.8,475.2
+7855-DIWPO,46.87,Medium Risk,Month-to-month,21,68.65,1493.2
+0174-QRVVY,0.43,Low Risk,Two year,71,25.35,1847.55
+9507-EXLTT,86.51,High Risk,Month-to-month,1,79.35,79.35
+8390-FESFV,1.53,Low Risk,Two year,62,84.5,5193.2
+0661-KBKPA,10.76,Low Risk,One year,53,78.75,3942.45
+6856-RAURS,67.65,High Risk,Month-to-month,2,74.9,136.05
+7322-OCWHC,0.58,Low Risk,Two year,72,93.05,6735.05
+2203-GHNWN,36.63,Medium Risk,Month-to-month,24,79.65,1928.7
+3413-CSSTH,14.34,Low Risk,Month-to-month,41,55.7,2237.55
+3006-XIMLN,83.46,High Risk,Month-to-month,2,94.2,193.8
+3750-CKVKH,66.65,High Risk,Month-to-month,2,67.75,116.65
+0576-WNXXC,49.73,Medium Risk,Month-to-month,27,95.55,2510.2
+7056-IMHCC,53.91,Medium Risk,Month-to-month,53,101.9,5549.4
+0866-QLSIR,2.68,Low Risk,One year,34,64.4,2088.75
+1628-BIZYP,87.76,High Risk,Month-to-month,1,85.0,85.0
+2230-XTUWL,1.41,Low Risk,Two year,48,19.55,883.35
+1980-KXVPM,68.38,High Risk,Month-to-month,3,75.05,256.25
+8619-IJNDK,0.46,Low Risk,Two year,71,64.05,4492.9
+2960-NKRSO,30.95,Medium Risk,Month-to-month,24,85.95,2107.15
+6705-LXORM,52.05,Medium Risk,Month-to-month,5,70.05,302.6
+7130-VTEWQ,73.67,High Risk,Month-to-month,8,75.75,606.25
+9364-YKUVW,11.1,Low Risk,Month-to-month,15,19.8,309.4
+2761-OCIAX,66.14,High Risk,Month-to-month,2,74.7,165.4
+7996-BPXHY,2.54,Low Risk,Two year,13,25.0,332.5
+4248-QPAVC,40.5,Medium Risk,Month-to-month,17,85.35,1463.45
+9357-UJRUN,8.32,Low Risk,One year,24,58.35,1346.9
+6340-DACFT,1.04,Low Risk,Two year,50,20.55,1070.25
+1023-BQXZE,1.97,Low Risk,Two year,57,74.35,4317.35
+5480-HPRRX,73.77,High Risk,Month-to-month,3,25.3,77.75
+9576-SYUHJ,36.73,Medium Risk,Month-to-month,37,91.15,3369.25
+2169-RRLFW,0.56,Low Risk,Two year,71,25.6,1888.25
+8338-QIUNR,0.35,Low Risk,Two year,72,66.5,4811.6
+0463-TXOAK,1.5,Low Risk,Two year,52,25.6,1334.5
+4396-KLSEH,23.62,Low Risk,Month-to-month,4,19.85,63.0
+5186-EJEGL,18.34,Low Risk,Month-to-month,9,69.5,653.25
+9334-GWGOW,73.78,High Risk,Month-to-month,7,74.85,485.25
+5696-JVVQY,2.98,Low Risk,Two year,48,70.1,3238.4
+9633-DENPU,17.12,Low Risk,Month-to-month,47,58.6,2723.4
+0581-BXBUB,52.09,Medium Risk,Month-to-month,4,72.75,317.75
+2750-BJLSB,24.57,Low Risk,One year,47,103.7,4730.6
+2770-NSVDG,30.52,Medium Risk,Month-to-month,24,29.1,688.0
+8280-MQRQN,55.64,Medium Risk,Month-to-month,1,50.45,50.45
+7851-FLGGQ,42.5,Medium Risk,Month-to-month,1,44.65,44.65
+9374-YOLBJ,34.58,Medium Risk,Month-to-month,1,19.25,19.25
+6583-SZVGP,28.2,Low Risk,Two year,48,108.1,5067.45
+2150-OEGBV,2.49,Low Risk,One year,27,20.1,562.6
+9372-TXXPS,1.03,Low Risk,Two year,60,59.85,3483.45
+6933-FHBZC,5.65,Low Risk,One year,26,56.05,1553.2
+4698-KVLLG,2.67,Low Risk,Two year,51,19.6,967.9
+8752-STIVR,69.62,High Risk,Month-to-month,4,79.0,303.15
+8623-ULFNQ,19.96,Low Risk,Month-to-month,26,66.05,1652.4
+9822-WMWVG,41.56,Medium Risk,Month-to-month,41,106.5,4282.4
+4304-TSPVK,10.72,Low Risk,Two year,68,114.9,7843.55
+1716-LSAMB,1.96,Low Risk,Two year,45,54.65,2553.7
+3523-QRQLL,19.16,Low Risk,One year,22,69.5,1498.2
+2187-PKZAY,58.95,Medium Risk,Month-to-month,12,79.95,1043.4
+1895-QTKDO,44.3,Medium Risk,Month-to-month,1,43.95,43.95
+8161-QYMTT,85.64,High Risk,Month-to-month,7,94.1,701.3
+2955-PSXOE,36.43,Medium Risk,Month-to-month,1,20.2,20.2
+6834-NXDCA,43.49,Medium Risk,Month-to-month,13,23.9,300.8
+8701-DGLVH,1.28,Low Risk,Two year,51,20.45,1042.65
+2480-SQIOB,32.85,Medium Risk,Month-to-month,4,44.8,169.65
+4993-JCRGJ,35.5,Medium Risk,Month-to-month,26,84.3,2281.6
+0581-MDMPW,40.91,Medium Risk,Month-to-month,24,88.95,2072.75
+7789-CRUVC,9.87,Low Risk,Month-to-month,61,94.2,5895.45
+0164-APGRB,1.95,Low Risk,Two year,72,114.9,8496.7
+8034-RYTVV,7.85,Low Risk,One year,55,84.25,4589.85
+3018-TFTSU,37.62,Medium Risk,Month-to-month,12,81.7,858.6
+9777-IQHWP,3.97,Low Risk,Two year,64,93.4,5822.3
+6899-PPEEA,62.34,High Risk,Month-to-month,37,96.55,3580.3
+6701-YVNQG,0.44,Low Risk,Two year,72,88.7,6301.7
+7649-PHJVR,3.52,Low Risk,One year,11,19.5,226.8
+9278-VZKCD,47.96,Medium Risk,Month-to-month,52,109.1,5647.95
+7636-PEPNS,4.6,Low Risk,One year,58,44.1,2413.05
+1575-KRZZE,31.25,Medium Risk,Month-to-month,4,55.2,220.65
+8590-OHDIW,2.14,Low Risk,One year,38,20.3,749.35
+7764-BDPEE,14.89,Low Risk,Month-to-month,3,20.85,60.65
+9480-BQJEI,8.08,Low Risk,One year,62,92.3,5731.45
+3354-OADJP,7.31,Low Risk,One year,8,54.25,447.75
+3181-MIZBN,12.06,Low Risk,Month-to-month,16,19.75,313.4
+9327-QSDED,22.68,Low Risk,Month-to-month,8,43.55,335.4
+4892-VLANZ,32.94,Medium Risk,Month-to-month,1,19.8,19.8
+0298-XACET,1.9,Low Risk,Two year,52,50.2,2554.0
+6917-FIJHC,0.46,Low Risk,Two year,72,26.0,1776.0
+6557-BZXLQ,46.62,Medium Risk,Month-to-month,16,69.65,1043.3
+2432-TFSMK,17.02,Low Risk,One year,18,89.6,1633.0
+4211-MMAZN,32.65,Medium Risk,Month-to-month,1,20.25,20.25
+4751-ERMAN,1.71,Low Risk,Two year,72,75.4,5480.25
+8430-TWCBX,2.33,Low Risk,One year,49,20.7,1032.05
+1942-OQFRW,54.54,Medium Risk,Month-to-month,1,44.0,44.0
+4075-JFPGR,13.57,Low Risk,One year,51,93.5,4619.55
+3339-EAQNV,9.38,Low Risk,One year,72,97.25,7133.1
+5329-KRDTM,1.74,Low Risk,Two year,72,77.35,5396.25
+0307-BCOPK,0.78,Low Risk,One year,16,19.05,326.65
+6473-ULUHT,19.2,Low Risk,Month-to-month,16,84.9,1398.25
+1194-SPVSP,27.87,Low Risk,Month-to-month,1,19.65,19.65
+7249-WBIYX,76.05,High Risk,Month-to-month,10,85.6,813.85
+2293-IJWPS,33.15,Medium Risk,One year,57,100.75,5985.0
+4377-VDHYI,13.95,Low Risk,One year,32,90.8,3023.85
+0019-EFAEP,1.74,Low Risk,Two year,72,101.3,7261.25
+2480-EJWYP,25.69,Low Risk,One year,58,97.8,5458.8
+8970-ANWXO,9.98,Low Risk,One year,23,73.75,1756.6
+8739-WWKDU,62.69,High Risk,Month-to-month,25,89.5,2196.15
+2171-UDMFD,6.48,Low Risk,Month-to-month,32,19.45,674.55
+7036-TYDEC,15.51,Low Risk,Two year,69,104.0,7028.5
+3831-YCPUO,0.59,Low Risk,Two year,72,109.5,7854.9
+0121-SNYRK,3.36,Low Risk,One year,50,35.4,1748.9
+3325-FUYCG,22.88,Low Risk,One year,28,106.1,2847.4
+1952-DVVSW,4.06,Low Risk,One year,10,20.1,184.4
+3571-DPYUH,6.51,Low Risk,One year,58,94.7,5430.35
+2077-MPJQO,73.79,High Risk,Month-to-month,7,75.4,533.05
+2391-SOORI,26.62,Low Risk,Month-to-month,4,49.35,219.65
+4086-ATNFV,4.06,Low Risk,One year,34,60.8,2042.05
+3396-DKDEL,4.99,Low Risk,Two year,70,115.15,8250.0
+7471-MQPOS,4.5,Low Risk,One year,71,72.9,5139.65
+7181-OQCUT,49.98,Medium Risk,Month-to-month,21,103.85,2215.0
+3489-VSFRD,4.12,Low Risk,One year,56,60.25,3282.75
+6283-GITPX,0.69,Low Risk,Two year,71,76.9,5522.7
+2845-HSJCY,56.06,Medium Risk,Month-to-month,14,87.25,1258.6
+7216-KAOID,2.72,Low Risk,One year,41,19.5,798.2
+6680-WKXRZ,59.51,Medium Risk,Month-to-month,3,74.4,215.8
+2346-LOCWC,1.29,Low Risk,Two year,58,20.5,1191.4
+0769-MURVM,0.38,Low Risk,Two year,72,65.7,4575.35
+3374-LXDEV,58.97,Medium Risk,Month-to-month,13,89.4,1132.35
+5318-YKDPV,1.79,Low Risk,Two year,43,79.15,3566.6
+8190-ZTQFB,22.39,Low Risk,One year,41,51.35,2075.1
+4512-ZUIYL,47.23,Medium Risk,Month-to-month,2,70.0,153.05
+3090-QFUVD,25.11,Low Risk,Month-to-month,1,20.3,20.3
+4806-KEXQR,68.66,High Risk,Month-to-month,4,79.9,324.3
+2369-FEVNO,44.42,Medium Risk,Month-to-month,1,19.9,19.9
+9637-CDTKZ,0.67,Low Risk,Two year,72,114.1,8086.4
+2954-PIBKO,0.92,Low Risk,Two year,69,64.15,4254.1
+2212-LYASK,16.48,Low Risk,One year,27,45.85,1246.4
+9481-SFCQY,19.94,Low Risk,Month-to-month,14,59.8,824.85
+2828-SLQPF,20.52,Low Risk,Month-to-month,19,45.0,865.85
+4647-MUZON,49.46,Medium Risk,Month-to-month,18,95.95,1745.5
+8212-DJRCH,54.14,Medium Risk,Month-to-month,5,90.35,434.5
+0516-OOHAR,20.29,Low Risk,One year,28,100.35,2799.0
+4973-RLZVI,4.2,Low Risk,One year,30,74.65,2308.6
+8089-UZWLX,14.73,Low Risk,Two year,71,104.05,7413.55
+9732-KPKBW,37.3,Medium Risk,Month-to-month,1,53.95,53.95
+9715-WZCLW,4.02,Low Risk,Two year,71,97.2,6910.3
+0257-KXZGU,8.64,Low Risk,Month-to-month,32,62.45,2045.55
+0707-HOVVN,9.55,Low Risk,Two year,70,75.5,5212.65
+5501-TVMGM,67.51,High Risk,Month-to-month,1,55.25,55.25
+3422-LYEPQ,82.81,High Risk,Month-to-month,1,71.0,71.0
+2277-VWCNI,42.77,Medium Risk,Month-to-month,4,48.75,179.85
+5461-QKNTN,38.62,Medium Risk,Month-to-month,43,94.3,3953.15
+3967-KXAPS,0.45,Low Risk,Two year,72,92.3,6719.9
+6919-ELBGL,2.14,Low Risk,Two year,72,114.95,8196.4
+8361-LTMKD,69.47,High Risk,Month-to-month,4,74.4,306.6
+1131-ALZWV,4.28,Low Risk,One year,24,24.6,605.25
+5178-LMXOP,92.36,High Risk,Month-to-month,1,95.1,95.1
+8992-CEUEN,15.85,Low Risk,Month-to-month,1,18.85,18.85
+3320-VEOYC,71.09,High Risk,Month-to-month,14,95.6,1273.3
+3672-YITQD,61.91,High Risk,Month-to-month,36,84.1,3021.6
+6080-TCMYC,43.6,Medium Risk,Month-to-month,40,81.2,3292.3
+6734-FQAJX,17.92,Low Risk,Two year,67,105.05,7171.7
+1063-DHQJF,2.16,Low Risk,Two year,69,92.15,6480.9
+3976-NLDEZ,36.34,Medium Risk,Month-to-month,1,20.6,20.6
+1729-VLAZJ,4.77,Low Risk,One year,10,40.25,411.45
+3400-ESFUW,1.57,Low Risk,Two year,55,57.55,3046.4
+5271-YNWVR,6.74,Low Risk,Two year,68,113.15,7856.0
+1587-FKLZB,41.83,Medium Risk,Month-to-month,66,99.5,6822.15
+0958-YHXGP,51.13,Medium Risk,Month-to-month,7,69.9,497.3
+1494-EJZDW,1.72,Low Risk,Two year,10,20.15,220.8
+1816-FLZDK,32.17,Medium Risk,Month-to-month,1,29.15,29.15
+2075-PUEPR,3.11,Low Risk,Two year,55,19.35,1153.25
+1833-TCXKK,41.28,Medium Risk,Month-to-month,45,107.75,4882.8
+1436-ZMJAN,24.37,Low Risk,Month-to-month,10,67.8,653.15
+0106-UGRDO,6.48,Low Risk,Two year,69,116.0,8182.85
+1069-XAIEM,92.6,High Risk,Month-to-month,1,85.05,85.05
+4213-HKBJO,2.05,Low Risk,Two year,33,25.7,826.1
+8345-MVDYC,1.84,Low Risk,Two year,45,81.65,3618.7
+2672-OJQZP,45.88,Medium Risk,Month-to-month,1,44.75,44.75
+5136-RGMZO,15.64,Low Risk,Month-to-month,31,71.05,2168.15
+5774-QPLTF,2.19,Low Risk,One year,50,20.35,938.95
+5240-CAOYT,12.02,Low Risk,Month-to-month,57,87.55,4884.85
+3707-GNWHM,79.07,High Risk,Month-to-month,1,74.25,74.25
+5159-YFPKQ,69.63,High Risk,Month-to-month,2,75.8,160.75
+5052-PNLOS,84.71,High Risk,Month-to-month,3,105.35,323.25
+6173-GOLSU,41.46,Medium Risk,Month-to-month,67,94.65,6079.0
+6661-HBGWL,58.7,Medium Risk,Month-to-month,42,104.75,4323.45
+8207-VVMYB,0.74,Low Risk,Two year,70,26.0,2006.95
+5324-KTGCG,1.73,Low Risk,One year,71,20.85,1539.75
+7354-OIJLX,69.88,High Risk,Month-to-month,9,75.85,724.65
+9286-BHDQG,0.43,Low Risk,Two year,72,45.25,3139.8
+3567-PQTSO,22.99,Low Risk,One year,53,105.25,5576.3
+3197-ARFOY,56.85,Medium Risk,Month-to-month,19,105.0,2007.25
+5698-BQJOH,70.84,High Risk,Month-to-month,9,94.4,857.25
+1090-ESELR,1.41,Low Risk,Two year,72,105.5,7611.55
+0056-EPFBG,2.3,Low Risk,Two year,20,39.4,825.4
+4955-VCWBI,2.35,Low Risk,One year,43,20.0,817.95
+4717-GHADL,1.97,Low Risk,Two year,50,79.6,4024.2
+0058-EVZWM,20.21,Low Risk,Month-to-month,55,89.8,4959.6
+7218-HKQFK,69.0,High Risk,Month-to-month,2,94.2,167.5
+5057-RKGLH,1.47,Low Risk,Two year,9,20.35,191.1
+2309-OSFEU,36.84,Medium Risk,Month-to-month,10,33.9,298.45
+3429-IFLEM,0.63,Low Risk,Two year,71,77.35,5550.1
+1550-LOAHA,41.55,Medium Risk,Month-to-month,32,84.15,2585.95
+1400-MMYXY,89.18,High Risk,Month-to-month,3,105.9,334.65
+7503-QQRVF,45.68,Medium Risk,Month-to-month,16,74.3,1178.25
+7504-UWHNB,28.9,Low Risk,Month-to-month,25,69.75,1729.35
+9565-JSNFM,10.04,Low Risk,One year,38,70.45,2597.6
+4735-BJKOU,1.43,Low Risk,Two year,40,20.15,804.85
+3580-GICBM,0.82,Low Risk,Two year,61,24.2,1445.2
+7632-YUTXB,2.53,Low Risk,One year,25,20.05,520.1
+9412-ARGBX,3.97,Low Risk,Two year,48,95.5,4627.85
+9576-ANLXO,53.53,Medium Risk,Month-to-month,3,69.55,222.3
+1110-KYLGQ,12.46,Low Risk,Month-to-month,63,108.25,6780.1
+8696-JKZNU,52.84,Medium Risk,Month-to-month,37,76.25,2841.55
+8757-TFHHJ,46.53,Medium Risk,Month-to-month,1,49.8,49.8
+2955-BJZHG,37.7,Medium Risk,Month-to-month,17,80.85,1400.85
+9048-JVYVF,41.35,Medium Risk,Month-to-month,3,69.35,191.35
+0682-USIXD,44.34,Medium Risk,Month-to-month,21,86.05,1818.9
+3884-UEBXB,1.24,Low Risk,Two year,67,36.15,2434.45
+1776-SPBWV,2.85,Low Risk,One year,34,20.1,682.1
+9050-QLROH,39.83,Medium Risk,Month-to-month,18,90.7,1597.25
+2925-VDZHY,0.36,Low Risk,Two year,72,88.7,6501.35
+9512-UIBFX,33.96,Medium Risk,Month-to-month,18,95.15,1779.95
+8676-TRMJS,58.2,Medium Risk,Month-to-month,3,75.0,209.1
+3334-CTHOL,58.22,Medium Risk,Month-to-month,1,49.95,49.95
+6331-LWDTQ,35.88,Medium Risk,Month-to-month,10,72.15,794.25
+3847-BAERP,11.7,Low Risk,Month-to-month,10,20.9,247.0
+4709-LKHYG,4.8,Low Risk,One year,29,20.0,540.05
+8621-MNIHH,44.14,Medium Risk,Month-to-month,34,94.25,3217.55
+8884-ADFVN,86.31,High Risk,Month-to-month,7,101.95,700.85
+2885-HIJDH,2.37,Low Risk,Two year,69,86.9,6194.1
+8570-KLJYJ,2.28,Low Risk,One year,36,54.45,1893.5
+9339-FIIJL,0.89,Low Risk,Two year,72,85.95,6151.9
+6223-DHJGV,2.25,Low Risk,One year,42,20.65,958.1
+0959-WHOKV,23.7,Low Risk,One year,42,99.0,4298.45
+9610-WCESF,7.28,Low Risk,Two year,67,43.9,3097.2
+9279-CJEOJ,55.25,Medium Risk,Month-to-month,21,95.4,2025.1
+2985-FMWYF,66.4,High Risk,Month-to-month,23,93.5,2341.55
+3540-RZJYU,33.53,Medium Risk,Month-to-month,15,86.2,1270.2
+2522-WLNSF,5.73,Low Risk,One year,34,64.2,2106.3
+6861-XWTWQ,89.75,High Risk,Month-to-month,7,99.25,665.45
+8735-NBLWT,6.24,Low Risk,Month-to-month,9,20.4,184.1
+1744-JHKYS,9.0,Low Risk,Month-to-month,34,24.7,780.2
+0841-NULXI,75.41,High Risk,Month-to-month,1,35.55,35.55
+4016-BJKTZ,19.43,Low Risk,Two year,25,108.9,2809.05
+9298-WGMRW,1.7,Low Risk,Two year,72,115.5,8312.75
+7893-IXHRQ,33.66,Medium Risk,Month-to-month,1,20.55,20.55
+8785-CJSHH,47.66,Medium Risk,Month-to-month,60,99.8,5985.75
+7654-YWJUF,7.47,Low Risk,One year,43,84.25,3539.25
+8909-BOLNL,6.36,Low Risk,One year,3,21.2,52.05
+9919-FZDED,1.22,Low Risk,Two year,72,84.1,5981.65
+0322-CHQRU,45.87,Medium Risk,Month-to-month,2,45.35,89.5
+3587-PMCOY,63.2,High Risk,One year,10,98.9,1064.95
+0655-RBDUG,89.62,High Risk,Month-to-month,7,98.05,713.0
+0983-TATYJ,3.25,Low Risk,One year,33,51.45,1758.9
+5650-YLIBA,52.82,Medium Risk,Month-to-month,31,81.15,2640.55
+5144-TVGLP,51.93,Medium Risk,Month-to-month,38,94.75,3653.0
+3569-EDBPQ,44.71,Medium Risk,Month-to-month,24,84.35,1938.05
+4945-RVMTE,12.19,Low Risk,Month-to-month,28,59.55,1646.45
+3511-BFTJW,0.63,Low Risk,Two year,72,38.5,2763.0
+5537-UXXVS,4.45,Low Risk,Month-to-month,20,19.25,375.25
+8782-NUUOL,4.42,Low Risk,One year,60,79.0,4801.1
+2865-TCHJW,80.89,High Risk,Month-to-month,4,89.2,346.2
+9931-KGHOA,9.83,Low Risk,Month-to-month,46,55.0,2473.95
+3071-MVJCD,0.33,Low Risk,Two year,72,82.3,5815.15
+7279-BUYWN,56.33,Medium Risk,Month-to-month,41,113.2,4689.5
+3756-VNWDH,16.26,Low Risk,One year,65,100.75,6674.65
+1395-OFUWC,15.35,Low Risk,Month-to-month,43,29.3,1224.05
+4223-BKEOR,8.96,Low Risk,One year,21,64.85,1336.8
+0040-HALCW,1.22,Low Risk,Two year,54,20.4,1090.6
+7124-UGSUR,18.48,Low Risk,One year,61,104.4,6405.0
+7395-XWZOY,26.89,Low Risk,Month-to-month,20,55.0,1165.55
+5440-VHLUL,30.68,Medium Risk,One year,69,105.2,7386.05
+4706-DGAHW,66.43,High Risk,Month-to-month,1,45.2,45.2
+8166-ORCHU,13.15,Low Risk,One year,33,93.55,3055.5
+3978-YNKDD,1.8,Low Risk,Two year,19,20.85,467.5
+7198-GLXTC,61.33,High Risk,Month-to-month,2,79.0,143.65
+6366-XIVKZ,16.92,Low Risk,Month-to-month,13,63.15,816.8
+5133-POWUA,55.01,Medium Risk,Month-to-month,1,45.8,45.8
+8400-WZICQ,9.9,Low Risk,Month-to-month,55,55.7,3131.8
+5382-SOYZL,68.58,High Risk,Month-to-month,22,95.1,2162.6
+1989-PRJHP,47.38,Medium Risk,Month-to-month,27,75.5,1893.95
+4154-AQUGT,42.04,Medium Risk,Month-to-month,13,89.05,1169.35
+0980-FEXWF,3.67,Low Risk,One year,26,50.35,1285.8
+5845-BZZIB,1.08,Low Risk,Two year,35,20.1,655.3
+4840-ORQXB,42.35,Medium Risk,Month-to-month,56,104.75,5841.35
+0295-PPHDO,91.43,High Risk,Month-to-month,1,95.45,95.45
+8775-ERLNB,83.09,High Risk,Month-to-month,1,74.3,74.3
+0376-YMCJC,50.22,Medium Risk,Month-to-month,23,90.6,1943.2
+7410-YTJIK,54.64,Medium Risk,Month-to-month,7,75.45,480.75
+9927-DSWDF,57.85,Medium Risk,Month-to-month,22,104.6,2180.55
+6681-ZSEXG,1.77,Low Risk,Two year,56,59.5,3389.25
+5702-KVQRD,1.64,Low Risk,Two year,71,82.55,5832.65
+8711-LOBKY,1.74,Low Risk,Two year,59,19.85,1188.25
+9692-TUSXH,61.61,High Risk,Month-to-month,18,96.05,1740.7
+4012-YCFAI,0.86,Low Risk,Two year,60,61.35,3766.2
+8455-HIRAQ,20.68,Low Risk,Month-to-month,8,44.45,369.3
+7853-WNZSY,30.64,Medium Risk,Month-to-month,1,19.75,19.75
+0390-DCFDQ,76.57,High Risk,Month-to-month,1,70.45,70.45
+6421-SZVEM,15.53,Low Risk,One year,28,82.85,2320.8
+3094-JOJAI,22.98,Low Risk,Month-to-month,18,74.15,1387.0
+4873-ILOLJ,52.8,Medium Risk,Month-to-month,24,90.35,2238.5
+8181-YHCMF,0.6,Low Risk,Two year,68,60.3,4109.0
+3324-OIRTO,6.69,Low Risk,One year,71,104.65,7288.4
+9135-HSWOC,0.95,Low Risk,Two year,64,19.7,1274.05
+2272-WUSPA,0.9,Low Risk,Two year,72,110.75,7751.7
+4627-MIHJH,19.39,Low Risk,Two year,69,110.25,7467.55
+3896-RCYYE,6.44,Low Risk,Month-to-month,67,53.4,3579.15
+6729-GDNGC,33.63,Medium Risk,Month-to-month,20,80.7,1614.2
+9945-PSVIP,0.83,Low Risk,Two year,25,18.7,383.65
+4137-JOPHL,2.16,Low Risk,Two year,50,89.7,4304.5
+2720-FVBQP,32.69,Medium Risk,Month-to-month,6,48.95,273.25
+7854-EKTJL,23.36,Low Risk,Month-to-month,2,19.6,35.85
+1133-KXCGE,2.91,Low Risk,One year,18,20.1,407.05
+6048-QBXKL,58.38,Medium Risk,Month-to-month,2,56.55,118.25
+6338-AVWCY,62.36,High Risk,Month-to-month,3,40.15,130.75
+0013-MHZWF,22.45,Low Risk,Month-to-month,9,69.4,571.45
+9804-ICWBG,84.8,High Risk,Month-to-month,1,69.9,69.9
+2368-GAKKQ,5.82,Low Risk,Two year,70,113.65,7939.25
+4829-AUOAX,34.23,Medium Risk,Month-to-month,46,96.05,4399.5
+7876-BEUTG,29.76,Low Risk,Month-to-month,15,48.8,720.1
+6349-JDHQP,2.08,Low Risk,Two year,53,19.85,1049.6
+3063-QFSZL,67.51,High Risk,Month-to-month,1,55.4,55.4
+9142-XMYJH,7.72,Low Risk,Month-to-month,29,19.35,601.6
+2609-IAICY,90.64,High Risk,Month-to-month,1,77.15,77.15
+8626-PTQGE,0.8,Low Risk,Two year,69,60.05,4176.7
+0230-UBYPQ,3.5,Low Risk,One year,63,36.1,2298.9
+6814-ZPWFQ,2.63,Low Risk,One year,51,25.0,1260.7
+5921-NGYRH,8.44,Low Risk,Month-to-month,64,73.55,4764.0
+7803-XOCCZ,15.55,Low Risk,Month-to-month,52,84.05,4326.8
+1459-QNFQT,0.73,Low Risk,Two year,70,59.5,4144.8
+3948-FVVRP,17.32,Low Risk,Month-to-month,9,54.8,452.8
+0923-PNFUB,52.23,Medium Risk,Month-to-month,3,83.75,247.25
+4654-ULTTN,6.99,Low Risk,Two year,70,74.8,5315.8
+5628-FCGYG,67.23,High Risk,Month-to-month,21,84.1,1737.45
+0506-LVNGN,56.4,Medium Risk,Month-to-month,5,75.55,349.65
+4329-YPDDQ,45.63,Medium Risk,Month-to-month,20,108.2,2203.7
+9866-OCCKE,0.83,Low Risk,Two year,72,109.75,8075.35
+0794-YVSGE,0.28,Low Risk,Two year,72,20.3,1401.15
+4342-HENTK,63.15,High Risk,Month-to-month,2,70.65,142.35
+5934-TSSAU,29.16,Low Risk,Month-to-month,23,75.3,1702.9
+9986-BONCE,11.09,Low Risk,Month-to-month,4,20.95,85.5
+5301-GAUUY,39.47,Medium Risk,Month-to-month,32,80.35,2596.15
+0725-CXOTM,9.57,Low Risk,One year,36,89.65,3348.1
+2843-CQMEG,14.36,Low Risk,Month-to-month,24,49.7,1218.25
+5600-PDUJF,24.48,Low Risk,Month-to-month,6,49.5,312.7
+4500-HKANN,1.37,Low Risk,Two year,23,59.7,1414.2
+1862-QRWPE,1.05,Low Risk,Two year,48,20.65,1057.0
+2155-AMQRX,12.97,Low Risk,Month-to-month,28,54.9,1505.15
+0823-HSCDJ,42.1,Medium Risk,Month-to-month,52,49.15,2550.9
+4090-KPJIP,75.69,High Risk,Month-to-month,3,74.95,212.4
+2737-YNGYW,59.52,Medium Risk,Month-to-month,2,80.55,184.1
+5619-XZZKR,4.21,Low Risk,One year,4,19.95,68.2
+6047-YHPVI,59.95,Medium Risk,Month-to-month,5,69.7,316.9
+8375-DKEBR,89.77,High Risk,Month-to-month,1,69.6,69.6
+7729-XBTWX,0.73,Low Risk,Two year,66,19.75,1344.5
+4983-CLMLV,32.56,Medium Risk,Month-to-month,52,102.7,5138.1
+9227-LUNBG,59.3,Medium Risk,Month-to-month,1,24.6,24.6
+2758-RNWXS,12.18,Low Risk,One year,35,89.2,3251.3
+7055-HNEOJ,33.87,Medium Risk,Month-to-month,3,55.8,154.55
+7134-MJPDY,25.06,Low Risk,One year,66,102.85,6976.75
+4560-WQAQW,5.36,Low Risk,One year,59,68.7,4070.95
+8532-UEFWH,1.05,Low Risk,Two year,52,25.75,1345.85
+8541-QVFKM,73.1,High Risk,Month-to-month,8,73.5,632.2
+7129-ACFOG,42.77,Medium Risk,Month-to-month,5,53.8,283.95
+2495-INZWQ,67.15,High Risk,Month-to-month,4,44.55,174.3
+0263-FJTQO,1.82,Low Risk,Two year,50,70.5,3486.65
+0181-RITDD,3.85,Low Risk,Two year,62,108.15,6825.65
+8241-JUIQO,2.32,Low Risk,One year,61,19.45,1336.35
+0913-XWSCN,26.04,Low Risk,Month-to-month,55,85.5,4713.4
+2159-TURXX,9.7,Low Risk,Month-to-month,5,20.05,95.55
+6461-PPAXN,3.52,Low Risk,One year,35,54.95,1916.0
+1452-KIOVK,40.91,Medium Risk,Month-to-month,22,89.1,1949.4
+1139-WUOAH,1.58,Low Risk,Two year,57,53.35,3090.05
+3207-OYBWH,29.22,Low Risk,Month-to-month,57,95.25,5427.05
+8347-GDTMP,1.25,Low Risk,Two year,64,19.45,1225.65
+9909-DFRJA,17.96,Low Risk,One year,26,95.85,2475.35
+6383-ZTSIW,18.77,Low Risk,One year,39,99.1,3877.95
+5438-QMDDL,25.07,Low Risk,Month-to-month,19,59.8,1130.85
+8914-RBTSB,36.87,Medium Risk,Month-to-month,31,93.8,3019.5
+6164-HXUGH,9.11,Low Risk,Month-to-month,6,19.85,119.3
+6900-RBKER,4.17,Low Risk,Two year,52,89.45,4577.75
+1492-QGCLU,11.95,Low Risk,Month-to-month,53,85.7,4616.1
+6664-FPDAC,23.89,Low Risk,One year,56,111.95,6418.9
+1088-AUUZZ,1.78,Low Risk,Two year,56,75.85,4261.2
+6651-AZVTJ,56.15,Medium Risk,Month-to-month,49,99.8,4872.45
+8219-VYBVI,1.21,Low Risk,Two year,39,25.0,1004.35
+0310-MVLET,37.17,Medium Risk,Month-to-month,61,99.15,6010.05
+7233-IOQNP,12.67,Low Risk,Month-to-month,43,34.0,1505.35
+7311-MQJCH,8.77,Low Risk,One year,5,19.55,99.6
+9256-JTBNZ,8.09,Low Risk,Month-to-month,11,20.3,246.3
+8713-IGZSO,18.07,Low Risk,Month-to-month,2,24.85,62.0
+6821-BUXUX,74.63,High Risk,Month-to-month,13,96.65,1244.5
+9114-DPSIA,0.29,Low Risk,Two year,72,81.0,5750.0
+4501-UYKBC,11.53,Low Risk,One year,46,69.1,3255.35
+2798-NYLMZ,26.04,Low Risk,Two year,71,108.55,7616.0
+6711-VTNRE,32.31,Medium Risk,Month-to-month,36,87.55,3078.1
+5966-EMAZU,17.37,Low Risk,One year,64,108.5,6880.85
+3627-FHKBK,60.39,High Risk,Month-to-month,1,75.3,75.3
+7861-UVUFT,51.75,Medium Risk,Month-to-month,15,84.3,1308.4
+9824-QCJPK,2.36,Low Risk,One year,36,20.0,666.75
+7816-VGHTO,3.01,Low Risk,Two year,6,40.55,217.5
+3794-NFNCH,12.75,Low Risk,Month-to-month,30,50.0,1474.9
+3877-JRJIP,73.93,High Risk,Month-to-month,1,59.85,59.85
+5228-EXCET,51.08,Medium Risk,Month-to-month,13,80.85,1008.7
+6248-BSHKG,1.22,Low Risk,One year,61,20.4,1226.45
+8915-NNTRC,0.61,Low Risk,Two year,72,107.7,7919.8
+3470-OBUET,4.48,Low Risk,Two year,67,74.0,4868.4
+3229-USWAR,9.8,Low Risk,One year,34,79.95,2727.3
+1927-QEWMY,0.33,Low Risk,Two year,72,20.5,1502.25
+6374-AFWOX,1.73,Low Risk,Two year,46,65.65,3047.15
+7912-SYRQT,65.73,High Risk,Month-to-month,7,75.1,552.95
+2070-FNEXE,41.39,Medium Risk,Month-to-month,7,76.45,503.6
+5803-NQJZO,0.28,Low Risk,Two year,72,67.8,4804.65
+5651-YLPRD,45.26,Medium Risk,Month-to-month,32,86.1,2723.75
+1271-UODNO,2.33,Low Risk,Two year,39,53.85,2200.7
+5014-WUQMG,13.4,Low Risk,One year,47,96.1,4391.45
+5889-JTMUL,49.91,Medium Risk,Month-to-month,50,95.05,4888.7
+0788-DXBFY,7.56,Low Risk,One year,58,19.55,1108.8
+2669-QVCRG,25.0,Low Risk,Month-to-month,41,81.3,3190.65
+6630-UJZMY,80.09,High Risk,Month-to-month,4,83.25,308.05
+5061-PBXFW,7.26,Low Risk,Month-to-month,32,61.4,1864.65
+2700-LUEVA,27.67,Low Risk,Month-to-month,1,20.75,20.75
+3865-ZFZIB,1.93,Low Risk,Two year,19,19.65,358.15
+0471-ARVMX,18.63,Low Risk,One year,62,104.85,6312.9
+8985-OOPOS,13.55,Low Risk,One year,1,74.1,74.1
+0719-SYFRB,14.86,Low Risk,Month-to-month,12,61.65,713.75
+0447-BEMNG,18.79,Low Risk,Month-to-month,48,45.3,2145.0
+5630-AHZIL,24.8,Low Risk,Month-to-month,3,64.5,177.4
+2190-BCXEC,28.32,Low Risk,Month-to-month,40,78.85,3126.85
+1559-DTODC,26.52,Low Risk,Month-to-month,19,25.15,468.35
+3244-DCJWY,80.22,High Risk,Month-to-month,1,70.25,70.25
+3967-VQOGC,0.6,Low Risk,Two year,67,24.9,1680.25
+0265-PSUAE,40.66,Medium Risk,Month-to-month,16,100.7,1522.7
+1622-HSHSF,39.36,Medium Risk,Month-to-month,1,19.55,19.55
+9867-XOBQA,3.21,Low Risk,Two year,21,53.15,1183.2
+6773-LQTVT,24.91,Low Risk,Month-to-month,29,35.65,1025.15
+4332-MUOEZ,19.03,Low Risk,One year,20,94.3,1818.3
+0023-XUOPT,56.37,Medium Risk,Month-to-month,13,94.1,1215.6
+6543-CPZMK,38.44,Medium Risk,Month-to-month,9,29.95,248.95
+6418-HNFED,1.58,Low Risk,Two year,51,83.25,4089.45
+1036-GUDCL,4.99,Low Risk,Month-to-month,60,79.05,4663.4
+4818-QIUFN,49.27,Medium Risk,Month-to-month,20,79.15,1520.9
+0778-NELLA,41.71,Medium Risk,Month-to-month,9,34.7,296.1
+7495-OOKFY,66.78,High Risk,Month-to-month,8,80.65,633.3
+4737-HOBAX,1.93,Low Risk,Two year,63,79.8,5034.05
+7919-ZODZZ,16.11,Low Risk,One year,10,65.9,660.05
+2988-PLAHS,31.1,Medium Risk,One year,3,69.95,220.45
+9067-SQTNS,1.91,Low Risk,One year,44,20.6,926.0
+6483-OATDN,25.64,Low Risk,Month-to-month,8,51.3,411.6
+5469-CTCWN,11.26,Low Risk,One year,61,106.0,6547.7
+3524-WQDSG,52.49,Medium Risk,Month-to-month,43,99.3,4209.95
+6968-URWQU,7.84,Low Risk,One year,43,56.35,2391.15
+8601-QACRS,42.48,Medium Risk,Month-to-month,5,50.6,249.95
+8690-UPCZI,2.86,Low Risk,One year,29,69.05,1958.45
+5331-RGMTT,49.21,Medium Risk,Month-to-month,54,99.05,5295.7
+1357-BIJKI,34.0,Medium Risk,One year,50,98.25,4858.7
+2088-IEBAU,4.17,Low Risk,Two year,68,88.15,6148.45
+0679-IDSTG,89.9,High Risk,Month-to-month,1,69.25,69.25
+6519-ZHPXP,1.36,Low Risk,Two year,72,108.3,7679.65
+2101-RANCD,37.01,Medium Risk,Month-to-month,55,73.1,4144.9
+4029-HPFVY,54.48,Medium Risk,Month-to-month,3,70.3,220.4
+1015-OWJKI,13.45,Low Risk,Month-to-month,1,19.05,19.05
+8314-HTWVE,1.82,Low Risk,Two year,7,19.85,144.15
+5357-TZHPP,76.98,High Risk,Month-to-month,9,84.4,732.5
+8727-XDPUD,2.45,Low Risk,Two year,37,35.8,1316.9
+9073-ZZIAY,1.65,Low Risk,Two year,62,86.1,5215.25
+5181-OABFK,1.77,Low Risk,Two year,56,61.3,3346.8
+3812-LRZIR,2.24,Low Risk,Two year,27,24.5,761.95
+5204-HMGYF,5.78,Low Risk,One year,49,87.2,4345.0
+9950-MTGYX,1.12,Low Risk,Two year,28,20.3,487.95
+3675-EQOZA,9.7,Low Risk,Month-to-month,5,20.65,93.55
+3646-ITDGM,2.56,Low Risk,Two year,56,19.7,1051.9
+3913-FCUUW,0.28,Low Risk,Two year,72,70.45,5165.7
