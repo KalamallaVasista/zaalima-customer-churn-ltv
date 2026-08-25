@@ -1,5 +1,6 @@
-import pandas as pd
+import joblib
 import numpy as np
+import pandas as pd
 from pathlib import Path
 
 from sklearn.compose import ColumnTransformer
@@ -14,17 +15,29 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder
 
 
+# -------------------------------------------------
+# File Paths
+# -------------------------------------------------
+
 DATA_PATH = Path(
     "data/processed/ltv_active_customers.csv"
 )
 
+MODEL_PATH = Path(
+    "models/ltv_model.joblib"
+)
+
 
 def train_ltv_model():
+
     print("=" * 60)
     print("CUSTOMER LIFETIME VALUE - REGRESSION MODEL")
     print("=" * 60)
 
-    # Load LTV dataset
+    # -------------------------------------------------
+    # Load Dataset
+    # -------------------------------------------------
+
     df = pd.read_csv(DATA_PATH)
 
     print(f"\nActive Customers: {len(df)}")
@@ -38,14 +51,22 @@ def train_ltv_model():
     # -------------------------------------------------
     # Predictor Features
     # -------------------------------------------------
-    # Remove:
-    # - customerID because it is only an identifier
-    # - Churn because LTV data contains active customers only
-    # - ProjectedLTV because it is the target
-    # - CurrentRevenue and Projected12MonthRevenue because
-    #   they are directly used to calculate ProjectedLTV
-    # - TotalCharges because it is directly represented
-    #   in the LTV target calculation
+    # These columns are removed to prevent target leakage.
+    #
+    # customerID:
+    #     Identifier only.
+    #
+    # Churn:
+    #     LTV dataset already contains active customers only.
+    #
+    # ProjectedLTV:
+    #     Target variable.
+    #
+    # CurrentRevenue and Projected12MonthRevenue:
+    #     Directly used to calculate ProjectedLTV.
+    #
+    # TotalCharges:
+    #     Directly contributes to our ProjectedLTV target.
 
     drop_columns = [
         "customerID",
@@ -107,7 +128,7 @@ def train_ltv_model():
     )
 
     # -------------------------------------------------
-    # Complete Pipeline
+    # Create Complete ML Pipeline
     # -------------------------------------------------
 
     pipeline = Pipeline(
@@ -137,7 +158,10 @@ def train_ltv_model():
 
     print("\nTraining Random Forest Regressor...")
 
-    pipeline.fit(X_train, y_train)
+    pipeline.fit(
+        X_train,
+        y_train
+    )
 
     # -------------------------------------------------
     # Generate Predictions
@@ -167,7 +191,7 @@ def train_ltv_model():
     )
 
     # -------------------------------------------------
-    # Display Results
+    # Display Model Performance
     # -------------------------------------------------
 
     print("\n" + "=" * 60)
@@ -178,7 +202,31 @@ def train_ltv_model():
     print(f"RMSE : {rmse:.2f}")
     print(f"R²   : {r2:.4f}")
 
-    print("\nLTV model training completed successfully.")
+    # -------------------------------------------------
+    # Create Models Folder
+    # -------------------------------------------------
+
+    MODEL_PATH.parent.mkdir(
+        parents=True,
+        exist_ok=True
+    )
+
+    # -------------------------------------------------
+    # Save Trained Pipeline
+    # -------------------------------------------------
+
+    joblib.dump(
+        pipeline,
+        MODEL_PATH
+    )
+
+    print(
+        f"\nTrained LTV model saved to: {MODEL_PATH}"
+    )
+
+    print(
+        "\nLTV model training completed successfully."
+    )
 
 
 if __name__ == "__main__":
