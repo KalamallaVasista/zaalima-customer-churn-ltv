@@ -3,14 +3,13 @@ from pathlib import Path
 
 from fastapi.testclient import TestClient
 
-# Add the project root directory to Python's import path
+# Add project root to Python path
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(PROJECT_ROOT))
 
 from api.main import app
 
 
-# Create FastAPI test client
 client = TestClient(app)
 
 
@@ -22,7 +21,7 @@ def test_root_endpoint():
 
 
 def test_health_endpoint():
-    """Test the API health endpoint."""
+    """Test the health endpoint."""
     response = client.get("/health")
 
     assert response.status_code == 200
@@ -73,3 +72,83 @@ def test_single_ltv_prediction():
         "Medium Value",
         "High Value"
     ]
+
+
+def test_batch_ltv_prediction():
+    """Test batch customer LTV prediction."""
+
+    customers = [
+        {
+            "gender": "Female",
+            "SeniorCitizen": 0,
+            "Partner": "Yes",
+            "Dependents": "No",
+            "tenure": 24,
+            "PhoneService": "Yes",
+            "MultipleLines": "No",
+            "InternetService": "DSL",
+            "OnlineSecurity": "Yes",
+            "OnlineBackup": "No",
+            "DeviceProtection": "No",
+            "TechSupport": "Yes",
+            "StreamingTV": "No",
+            "StreamingMovies": "No",
+            "Contract": "One year",
+            "PaperlessBilling": "Yes",
+            "PaymentMethod": "Bank transfer (automatic)",
+            "MonthlyCharges": 65.50,
+            "TotalCharges": 1572.00
+        },
+        {
+            "gender": "Male",
+            "SeniorCitizen": 0,
+            "Partner": "No",
+            "Dependents": "No",
+            "tenure": 60,
+            "PhoneService": "Yes",
+            "MultipleLines": "Yes",
+            "InternetService": "Fiber optic",
+            "OnlineSecurity": "Yes",
+            "OnlineBackup": "Yes",
+            "DeviceProtection": "Yes",
+            "TechSupport": "Yes",
+            "StreamingTV": "Yes",
+            "StreamingMovies": "Yes",
+            "Contract": "Two year",
+            "PaperlessBilling": "No",
+            "PaymentMethod": "Credit card (automatic)",
+            "MonthlyCharges": 100.00,
+            "TotalCharges": 6000.00
+        }
+    ]
+
+    response = client.post("/predict/ltv/batch", json=customers)
+
+    assert response.status_code == 200
+
+    data = response.json()
+
+    assert isinstance(data, dict)
+
+    assert "total_customers" in data
+    assert "predictions" in data
+
+    assert data["total_customers"] == 2
+
+    predictions = data["predictions"]
+
+    assert isinstance(predictions, list)
+    assert len(predictions) == 2
+
+    for prediction in predictions:
+        assert "customer_number" in prediction
+        assert "predicted_ltv" in prediction
+        assert "ltv_segment" in prediction
+
+        assert prediction["predicted_ltv"] >= 0
+
+        assert prediction["ltv_segment"] in [
+            "Low Value",
+            "Medium Value",
+            "High Value"
+        ]
