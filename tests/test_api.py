@@ -152,3 +152,15 @@ def test_batch_ltv_prediction():
             "Medium Value",
             "High Value"
         ]
+def test_invalid_customer_input():
+    """Test that incomplete customer data is rejected."""
+
+    invalid_customer = {
+        "gender": "Female",
+        "tenure": 12,
+        "MonthlyCharges": 70.00
+    }
+
+    response = client.post("/predict/ltv", json=invalid_customer)
+
+    assert response.status_code == 422
