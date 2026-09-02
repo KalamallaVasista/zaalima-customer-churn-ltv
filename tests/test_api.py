@@ -164,3 +164,32 @@ def test_invalid_customer_input():
     response = client.post("/predict/ltv", json=invalid_customer)
 
     assert response.status_code == 422
+    
+def test_invalid_numeric_data_type():
+    """Test that invalid numeric input is rejected."""
+
+    invalid_customer = {
+        "gender": "Female",
+        "SeniorCitizen": 0,
+        "Partner": "Yes",
+        "Dependents": "No",
+        "tenure": "invalid-tenure",
+        "PhoneService": "Yes",
+        "MultipleLines": "No",
+        "InternetService": "DSL",
+        "OnlineSecurity": "Yes",
+        "OnlineBackup": "No",
+        "DeviceProtection": "No",
+        "TechSupport": "Yes",
+        "StreamingTV": "No",
+        "StreamingMovies": "No",
+        "Contract": "One year",
+        "PaperlessBilling": "Yes",
+        "PaymentMethod": "Bank transfer (automatic)",
+        "MonthlyCharges": 65.50,
+        "TotalCharges": 1572.00
+    }
+
+    response = client.post("/predict/ltv", json=invalid_customer)
+
+    assert response.status_code == 422
