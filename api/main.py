@@ -12,7 +12,19 @@ from pydantic import BaseModel
 # Paths
 # ---------------------------------------------------------
 
-MODEL_PATH = Path("models/ltv_model.joblib")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+
+LTV_MODEL_PATH = (
+    PROJECT_ROOT
+    / "models"
+    / "ltv_model.joblib"
+)
+
+CHURN_MODEL_PATH = (
+    PROJECT_ROOT
+    / "models"
+    / "churn_model.joblib"
+)
 
 
 # ---------------------------------------------------------
@@ -25,20 +37,31 @@ app = FastAPI(
         "Zaalima Development - Customer Churn Prediction "
         "and Lifetime Value Engine"
     ),
-    version="1.0.0"
+    version="2.0.0",
 )
 
 
 # ---------------------------------------------------------
-# Load LTV Model
+# Load Models
 # ---------------------------------------------------------
 
-if not MODEL_PATH.exists():
+if not LTV_MODEL_PATH.exists():
     raise FileNotFoundError(
-        f"LTV model not found at: {MODEL_PATH}"
+        f"LTV model not found at: {LTV_MODEL_PATH}"
     )
 
-ltv_model = joblib.load(MODEL_PATH)
+if not CHURN_MODEL_PATH.exists():
+    raise FileNotFoundError(
+        f"Churn model not found at: {CHURN_MODEL_PATH}"
+    )
+
+ltv_model = joblib.load(
+    LTV_MODEL_PATH
+)
+
+churn_model = joblib.load(
+    CHURN_MODEL_PATH
+)
 
 
 # ---------------------------------------------------------
@@ -73,22 +96,23 @@ class CustomerInput(BaseModel):
 
 
 # ---------------------------------------------------------
-# Feature Engineering Function
+# Shared Feature Engineering
 # ---------------------------------------------------------
 
-def prepare_customer_features(customer: CustomerInput):
+def calculate_engineered_features(
+    customer: CustomerInput,
+):
 
-    customer_data = customer.model_dump()
-
-    # Average Monthly Spend
     if customer.tenure > 0:
         avg_monthly_spend = (
-            customer.TotalCharges / customer.tenure
+            customer.TotalCharges
+            / customer.tenure
         )
     else:
-        avg_monthly_spend = customer.MonthlyCharges
+        avg_monthly_spend = (
+            customer.MonthlyCharges
+        )
 
-    # Tenure Group
     if customer.tenure <= 12:
         tenure_group = "0-12"
 
@@ -101,7 +125,6 @@ def prepare_customer_features(customer: CustomerInput):
     else:
         tenure_group = "49-72"
 
-    # Number of Active Services
     service_values = [
         customer.PhoneService,
         customer.MultipleLines,
@@ -110,7 +133,7 @@ def prepare_customer_features(customer: CustomerInput):
         customer.DeviceProtection,
         customer.TechSupport,
         customer.StreamingTV,
-        customer.StreamingMovies
+        customer.StreamingMovies,
     ]
 
     num_services = sum(
@@ -118,20 +141,19 @@ def prepare_customer_features(customer: CustomerInput):
         for value in service_values
     )
 
-    # Month-to-Month Contract Flag
     is_month_to_month = int(
-        customer.Contract == "Month-to-month"
+        customer.Contract
+        == "Month-to-month"
     )
 
-    # Internet Flag
     has_internet = int(
-        customer.InternetService != "No"
+        customer.InternetService
+        != "No"
     )
 
-    # Automatic Payment Flag
     auto_payment_methods = [
         "Bank transfer (automatic)",
-        "Credit card (automatic)"
+        "Credit card (automatic)",
     ]
 
     auto_payment = int(
@@ -139,43 +161,163 @@ def prepare_customer_features(customer: CustomerInput):
         in auto_payment_methods
     )
 
-    # Security / Support Flag
     has_security_support = int(
         customer.OnlineSecurity == "Yes"
         or customer.TechSupport == "Yes"
     )
 
-    # Build Model Input
-    model_input = {
-        "gender": customer_data["gender"],
-        "SeniorCitizen": customer_data["SeniorCitizen"],
-        "Partner": customer_data["Partner"],
-        "Dependents": customer_data["Dependents"],
-        "tenure": customer_data["tenure"],
-        "PhoneService": customer_data["PhoneService"],
-        "MultipleLines": customer_data["MultipleLines"],
-        "InternetService": customer_data["InternetService"],
-        "OnlineSecurity": customer_data["OnlineSecurity"],
-        "OnlineBackup": customer_data["OnlineBackup"],
-        "DeviceProtection": customer_data["DeviceProtection"],
-        "TechSupport": customer_data["TechSupport"],
-        "StreamingTV": customer_data["StreamingTV"],
-        "StreamingMovies": customer_data["StreamingMovies"],
-        "Contract": customer_data["Contract"],
-        "PaperlessBilling": customer_data[
-            "PaperlessBilling"
-        ],
-        "PaymentMethod": customer_data["PaymentMethod"],
-        "MonthlyCharges": customer_data["MonthlyCharges"],
-
-        # Engineered Features
+    return {
         "AvgMonthlySpend": avg_monthly_spend,
         "TenureGroup": tenure_group,
         "NumServices": num_services,
         "IsMonthToMonth": is_month_to_month,
         "HasInternet": has_internet,
         "AutoPayment": auto_payment,
-        "HasSecuritySupport": has_security_support
+        "HasSecuritySupport": (
+            has_security_support
+        ),
+    }
+
+
+# ---------------------------------------------------------
+# LTV Feature Preparation
+# ---------------------------------------------------------
+
+def prepare_ltv_features(
+    customer: CustomerInput,
+):
+
+    engineered = (
+        calculate_engineered_features(
+            customer
+        )
+    )
+
+    model_input = {
+        "gender": customer.gender,
+        "SeniorCitizen": (
+            customer.SeniorCitizen
+        ),
+        "Partner": customer.Partner,
+        "Dependents": customer.Dependents,
+        "tenure": customer.tenure,
+
+        "PhoneService": (
+            customer.PhoneService
+        ),
+        "MultipleLines": (
+            customer.MultipleLines
+        ),
+
+        "InternetService": (
+            customer.InternetService
+        ),
+        "OnlineSecurity": (
+            customer.OnlineSecurity
+        ),
+        "OnlineBackup": (
+            customer.OnlineBackup
+        ),
+        "DeviceProtection": (
+            customer.DeviceProtection
+        ),
+        "TechSupport": (
+            customer.TechSupport
+        ),
+
+        "StreamingTV": (
+            customer.StreamingTV
+        ),
+        "StreamingMovies": (
+            customer.StreamingMovies
+        ),
+
+        "Contract": customer.Contract,
+        "PaperlessBilling": (
+            customer.PaperlessBilling
+        ),
+        "PaymentMethod": (
+            customer.PaymentMethod
+        ),
+        "MonthlyCharges": (
+            customer.MonthlyCharges
+        ),
+
+        **engineered,
+    }
+
+    return model_input
+
+
+# ---------------------------------------------------------
+# Churn Feature Preparation
+# ---------------------------------------------------------
+
+def prepare_churn_features(
+    customer: CustomerInput,
+):
+
+    engineered = (
+        calculate_engineered_features(
+            customer
+        )
+    )
+
+    model_input = {
+        "gender": customer.gender,
+        "SeniorCitizen": (
+            customer.SeniorCitizen
+        ),
+        "Partner": customer.Partner,
+        "Dependents": customer.Dependents,
+        "tenure": customer.tenure,
+
+        "PhoneService": (
+            customer.PhoneService
+        ),
+        "MultipleLines": (
+            customer.MultipleLines
+        ),
+
+        "InternetService": (
+            customer.InternetService
+        ),
+        "OnlineSecurity": (
+            customer.OnlineSecurity
+        ),
+        "OnlineBackup": (
+            customer.OnlineBackup
+        ),
+        "DeviceProtection": (
+            customer.DeviceProtection
+        ),
+        "TechSupport": (
+            customer.TechSupport
+        ),
+
+        "StreamingTV": (
+            customer.StreamingTV
+        ),
+        "StreamingMovies": (
+            customer.StreamingMovies
+        ),
+
+        "Contract": customer.Contract,
+        "PaperlessBilling": (
+            customer.PaperlessBilling
+        ),
+        "PaymentMethod": (
+            customer.PaymentMethod
+        ),
+
+        "MonthlyCharges": (
+            customer.MonthlyCharges
+        ),
+        "TotalCharges": (
+            customer.TotalCharges
+        ),
+
+        **engineered,
     }
 
     return model_input
@@ -185,7 +327,9 @@ def prepare_customer_features(customer: CustomerInput):
 # LTV Segment Function
 # ---------------------------------------------------------
 
-def get_ltv_segment(predicted_ltv: float):
+def get_ltv_segment(
+    predicted_ltv: float,
+):
 
     if predicted_ltv < 1500:
         return "Low Value"
@@ -193,8 +337,24 @@ def get_ltv_segment(predicted_ltv: float):
     elif predicted_ltv < 4500:
         return "Medium Value"
 
-    else:
-        return "High Value"
+    return "High Value"
+
+
+# ---------------------------------------------------------
+# Churn Risk Segment Function
+# ---------------------------------------------------------
+
+def get_risk_segment(
+    churn_probability: float,
+):
+
+    if churn_probability >= 70:
+        return "High Risk"
+
+    elif churn_probability >= 30:
+        return "Medium Risk"
+
+    return "Low Risk"
 
 
 # ---------------------------------------------------------
@@ -206,7 +366,8 @@ def root():
 
     return {
         "message": (
-            "Customer Churn & LTV API is running"
+            "Customer Churn & LTV API "
+            "is running"
         )
     }
 
@@ -220,60 +381,79 @@ def health_check():
 
     return {
         "status": "healthy",
-        "ltv_model_loaded": True
+        "churn_model_loaded": True,
+        "ltv_model_loaded": True,
     }
 
 
 # ---------------------------------------------------------
-# Single Customer LTV Prediction
+# Single Churn Prediction
 # ---------------------------------------------------------
 
-@app.post("/predict/ltv")
-def predict_ltv(customer: CustomerInput):
+@app.post("/predict/churn")
+def predict_churn(
+    customer: CustomerInput,
+):
 
     try:
 
-        model_input = prepare_customer_features(
-            customer
+        model_input = (
+            prepare_churn_features(
+                customer
+            )
         )
 
         customer_df = pd.DataFrame(
             [model_input]
         )
 
-        prediction = ltv_model.predict(
-            customer_df
-        )[0]
-
-        predicted_ltv = round(
-            float(prediction),
-            2
+        probability = (
+            churn_model
+            .predict_proba(
+                customer_df
+            )[0][1]
         )
 
-        segment = get_ltv_segment(
-            predicted_ltv
+        probability_percent = round(
+            float(probability) * 100,
+            2,
+        )
+
+        predicted_class = int(
+            probability >= 0.5
         )
 
         return {
-            "predicted_ltv": predicted_ltv,
-            "ltv_segment": segment
+            "churn_probability": (
+                probability_percent
+            ),
+            "predicted_churn": (
+                "Yes"
+                if predicted_class == 1
+                else "No"
+            ),
+            "risk_segment": (
+                get_risk_segment(
+                    probability_percent
+                )
+            ),
         }
 
     except Exception as error:
 
         raise HTTPException(
             status_code=500,
-            detail=str(error)
+            detail=str(error),
         )
 
 
 # ---------------------------------------------------------
-# Batch Customer LTV Prediction
+# Batch Churn Prediction
 # ---------------------------------------------------------
 
-@app.post("/predict/ltv/batch")
-def predict_ltv_batch(
-    customers: List[CustomerInput]
+@app.post("/predict/churn/batch")
+def predict_churn_batch(
+    customers: List[CustomerInput],
 ):
 
     try:
@@ -281,29 +461,170 @@ def predict_ltv_batch(
         if len(customers) == 0:
             raise HTTPException(
                 status_code=400,
-                detail="Customer list cannot be empty."
+                detail=(
+                    "Customer list "
+                    "cannot be empty."
+                ),
             )
 
-        prepared_customers = []
-
-        for customer in customers:
-
-            prepared_customer = (
-                prepare_customer_features(
-                    customer
-                )
+        prepared_customers = [
+            prepare_churn_features(
+                customer
             )
-
-            prepared_customers.append(
-                prepared_customer
-            )
+            for customer in customers
+        ]
 
         batch_df = pd.DataFrame(
             prepared_customers
         )
 
-        predictions = ltv_model.predict(
-            batch_df
+        probabilities = (
+            churn_model
+            .predict_proba(
+                batch_df
+            )[:, 1]
+        )
+
+        results = []
+
+        for index, probability in enumerate(
+            probabilities
+        ):
+
+            probability_percent = round(
+                float(probability) * 100,
+                2,
+            )
+
+            predicted_class = int(
+                probability >= 0.5
+            )
+
+            results.append(
+                {
+                    "customer_number": (
+                        index + 1
+                    ),
+                    "churn_probability": (
+                        probability_percent
+                    ),
+                    "predicted_churn": (
+                        "Yes"
+                        if predicted_class == 1
+                        else "No"
+                    ),
+                    "risk_segment": (
+                        get_risk_segment(
+                            probability_percent
+                        )
+                    ),
+                }
+            )
+
+        return {
+            "total_customers": (
+                len(results)
+            ),
+            "predictions": results,
+        }
+
+    except HTTPException:
+        raise
+
+    except Exception as error:
+
+        raise HTTPException(
+            status_code=500,
+            detail=str(error),
+        )
+
+
+# ---------------------------------------------------------
+# Single LTV Prediction
+# ---------------------------------------------------------
+
+@app.post("/predict/ltv")
+def predict_ltv(
+    customer: CustomerInput,
+):
+
+    try:
+
+        model_input = (
+            prepare_ltv_features(
+                customer
+            )
+        )
+
+        customer_df = pd.DataFrame(
+            [model_input]
+        )
+
+        prediction = (
+            ltv_model.predict(
+                customer_df
+            )[0]
+        )
+
+        predicted_ltv = round(
+            float(prediction),
+            2,
+        )
+
+        segment = get_ltv_segment(
+            predicted_ltv
+        )
+
+        return {
+            "predicted_ltv": (
+                predicted_ltv
+            ),
+            "ltv_segment": segment,
+        }
+
+    except Exception as error:
+
+        raise HTTPException(
+            status_code=500,
+            detail=str(error),
+        )
+
+
+# ---------------------------------------------------------
+# Batch LTV Prediction
+# ---------------------------------------------------------
+
+@app.post("/predict/ltv/batch")
+def predict_ltv_batch(
+    customers: List[CustomerInput],
+):
+
+    try:
+
+        if len(customers) == 0:
+            raise HTTPException(
+                status_code=400,
+                detail=(
+                    "Customer list "
+                    "cannot be empty."
+                ),
+            )
+
+        prepared_customers = [
+            prepare_ltv_features(
+                customer
+            )
+            for customer in customers
+        ]
+
+        batch_df = pd.DataFrame(
+            prepared_customers
+        )
+
+        predictions = (
+            ltv_model.predict(
+                batch_df
+            )
         )
 
         results = []
@@ -314,7 +635,7 @@ def predict_ltv_batch(
 
             predicted_ltv = round(
                 float(prediction),
-                2
+                2,
             )
 
             segment = get_ltv_segment(
@@ -323,15 +644,23 @@ def predict_ltv_batch(
 
             results.append(
                 {
-                    "customer_number": index + 1,
-                    "predicted_ltv": predicted_ltv,
-                    "ltv_segment": segment
+                    "customer_number": (
+                        index + 1
+                    ),
+                    "predicted_ltv": (
+                        predicted_ltv
+                    ),
+                    "ltv_segment": (
+                        segment
+                    ),
                 }
             )
 
         return {
-            "total_customers": len(results),
-            "predictions": results
+            "total_customers": (
+                len(results)
+            ),
+            "predictions": results,
         }
 
     except HTTPException:
@@ -341,5 +670,5 @@ def predict_ltv_batch(
 
         raise HTTPException(
             status_code=500,
-            detail=str(error)
+            detail=str(error),
         )
